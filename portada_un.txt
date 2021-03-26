@@ -1,0 +1,2764 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head id="Head1"><title>
+	Inicio | Tu voto de &#218;ltimas Noticias | &Uacute;ltimas Noticias
+</title><meta name="description" content="Tu voto de Últimas Noticias te dará toda la información sobre el proceso electoral 2012. en todas sus plataformas: papel, web, móvil, radio y redes sociales." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+ 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<meta name="keywords" content="Últimas Noticias, ÚN, mayor circulación, noticias de venezuela, diario, diarios, periódico, periódicos, noticia, prensa, videocolumna, videocolumnas, video, videos, multimedia, infografía, infografías, audiogalería, audiogalerías, actualidad, artículos, artículo, reportaje, publicación, publicaciones, entrevista, entrevistas, opinión, medios, comunicación, el país, el mundo, más vida, superbarrio, deportes, beisbol, chévere, tecnologia, ocio y entretenimiento, agarra tus maletas, revista dominical, epaper, ÚN Radio, Cadena Capriles, nacional, nacionales, venezolanos, venezolano, hugo chavez, gobierno, venezuela news, newsletters, VenezuelaNoticias
+Partidos Políticos
+Dónde Votar
+Candidatos
+CNE
+Elecciones 2012
+Hugo Chávez Frías
+Henrique Capriles Radonski
+Consejo Nacional Electoral
+Registro Electoral
+Cómo Votar
+Presidente
+Elecciones Presidenciales
+Votar
+" /> 
+<link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=UltimasNoticiasCSS" /> 
+<script src="/App_themes/Unoticias/js/contentslider.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-124669-5']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Start of Woopra Code -->
+<script type="text/javascript">
+function woopraReady(tracker) {
+    tracker.setDomain('ultimasnoticias.com.ve');
+    tracker.setIdleTimeout(1800000);
+    tracker.trackPageview({type:'pageview',url:window.location.pathname+window.location.search,title:document.title});
+    return false;
+}
+(function() {
+    var wsc = document.createElement('script');
+    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+    wsc.type = 'text/javascript';
+    wsc.async = true;
+    var ssc = document.getElementsByTagName('script')[0];
+    ssc.parentNode.insertBefore(wsc, ssc);
+})();
+</script>
+<!-- End of Woopra Code --> 
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="icon" href="/favicon.ico" /><script type="text/javascript" src="/App_Themes/UNoticias/js/jquery-1.4.2.min.js"></script>
+<script src="/App_Themes/UNoticias/Js/ui.core.js" type="text/javascript"></script> 
+<script src="/App_Themes/UNoticias/Js/ui.tabs.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+ var L = jQuery.noConflict();
+	L(function() {
+		L('#container-1 > ul').tabs(  );
+	});
+</script> </head>
+<body class="LTR Gecko14 ESVE" >
+    <form method="post" action="/tuvoto/inicio.aspx" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyNw9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWAgILD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWBgIDD2QWAmYPZBYCZg9kFhhmD2QWAmYPZBYSZg8VARgyNy8wNy8yMDEyIDAyOjM4OjM3IHAubS5kAgEPDxYCHgtOYXZpZ2F0ZVVybAUQL0NhbmRpZGF0b3MuYXNweGQWAmYPFgIeBFRleHQFCkNhbmRpZGF0b3NkAgIPFQEBMGQCAw8PFgQfAAVQL05vdGljaWFzL1R1Vm90by9DYW5kaWRhdG9zL0NoYXZlei1yYXRpZmljYS1xdWUtY29udGludWFyYS1oYWNpZW5kby1jYWRlbmFzLmFzcHgeB1Rvb2xUaXAFSU5vdGljaWFzIGRlIENhbmRpZGF0b3M6IENow6F2ZXogcmF0aWZpY2EgcXVlIGNvbnRpbnVhcsOhIGhhY2llbmRvIGNhZGVuYXNkFgJmDxUBMUNow6F2ZXogcmF0aWZpY2EgcXVlIGNvbnRpbnVhcsOhIGhhY2llbmRvIGNhZGVuYXNkAgQPFgIfAQUrPGRpdiBjbGFzcz0iY29udGFpbmVyIj48ZGl2IGNsYXNzPSJzbGlkZXMiPmQCBQ8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmD2QWBgIBDw8WBB8ABVAvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2hhdmV6LXJhdGlmaWNhLXF1ZS1jb250aW51YXJhLWhhY2llbmRvLWNhZGVuYXMuYXNweB8CBUlOb3RpY2lhcyBkZSBDYW5kaWRhdG9zOiBDaMOhdmV6IHJhdGlmaWNhIHF1ZSBjb250aW51YXLDoSBoYWNpZW5kbyBjYWRlbmFzZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzcwZDY3ZTgxLTkyZjItNDBjYS05YjRjLTFiNjI2ZjkwMTQyMy8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgMPFgIfAQU4SW5zaXN0ZSBlbiBxdWUgbm8gaGFjZSBjYW1wYcOxYSBkdXJhbnRlIGxhcyBjYWRlbmFzPC9icj5kAgQPFQEWQ3LDqWRpdG9zOiBDYXB0dXJhIFZUVmQCBg8WAh8BBQw8L2Rpdj48L2Rpdj5kAgcPZBYEAgEPZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzcwZDY3ZTgxLTkyZjItNDBjYS05YjRjLTFiNjI2ZjkwMTQyMy8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgIPFQELQ3LDqWRpdG9zOiBkAggPFQQADkhPWSAwMjoxOCBwLm0u2AE8Yj4iRWwgcGHDrXMgdGllbmUgZWwgZGVyZWNobyBhIGVzdGFyIGluZm9ybWFkby48L2I+IEVzbyBlcyBsbyBjb250aXR1Y2lvbmFsIiwgZXhwcmVzw7MgZWwgbWFuZGF0YXJpbyBlbiB0cmFuc21pc2nDs24gZGUgPGI+Y2FkZW5hIG5hY2lvbmFsPC9iPiBhIHByb3DDs3NpdG8gZGUgbGEgZW50cmVnYSBkZSBjcsOpZGl0b3Mgb3RvcmdhZG9zIHBvciBsYSBiYW5jYSBww7pibGljYSAAZAIBD2QWAmYPZBYSZg8VARgyNy8wNy8yMDEyIDAyOjM4OjM3IHAubS5kAgEPDxYCHwAFGS9Ob3RpY2lhc0VsZWN0b3JhbGVzLmFzcHhkFgJmDxYCHwEFE05vdGljaWFzRWxlY3RvcmFsZXNkAgIPFQEBMGQCAw8PFgQfAAVcL05vdGljaWFzL1R1Vm90by9Ob3RpY2lhc0VsZWN0b3JhbGVzL0NORS0tRWxlY2Npb25lcy1uby1yZXF1aWVyZW4tb2JzZXJ2YWNpb24tZGUtbGEtT0VBLmFzcHgfAgVUTm90aWNpYXMgZGUgTm90aWNpYXNFbGVjdG9yYWxlczogQ05FOiBFbGVjY2lvbmVzIG5vIHJlcXVpZXJlbiBvYnNlcnZhY2nDs24gZGUgbGEgT0VBZBYCZg8VATNDTkU6IEVsZWNjaW9uZXMgbm8gcmVxdWllcmVuIG9ic2VydmFjacOzbiBkZSBsYSBPRUFkAgQPFgIfAQUrPGRpdiBjbGFzcz0iY29udGFpbmVyIj48ZGl2IGNsYXNzPSJzbGlkZXMiPmQCBQ8WAh8DAgEWAmYPZBYCZg9kFgYCAQ8PFgQfAAVcL05vdGljaWFzL1R1Vm90by9Ob3RpY2lhc0VsZWN0b3JhbGVzL0NORS0tRWxlY2Npb25lcy1uby1yZXF1aWVyZW4tb2JzZXJ2YWNpb24tZGUtbGEtT0VBLmFzcHgfAgVUTm90aWNpYXMgZGUgTm90aWNpYXNFbGVjdG9yYWxlczogQ05FOiBFbGVjY2lvbmVzIG5vIHJlcXVpZXJlbiBvYnNlcnZhY2nDs24gZGUgbGEgT0VBZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50L2ZkOTg4N2Y3LWMwNzUtNGM2YS1iNmZkLTlhZjQ3ZDQ3OWEyZi8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgMPFgIfAWVkAgQPFQERQ3LDqWRpdG9zOiBHb29nbGVkAgYPFgIfAQUMPC9kaXY+PC9kaXY+ZAIHD2QWBAIBD2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC8wMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAICDxUBC0Nyw6lkaXRvczogZAIIDxUEAA5IT1kgMTI6MDAgcC5tLuoBPGI+IlRlbmVtb3Mgc3VmaWNpZW50ZSBtYWR1cmV6IGVsZWN0b3JhbDwvYj4gY29tbyBwYXJhIG5vIHJlcXVlcmlyIGVzZSB0aXBvIGRlIG9ic2VydmFjacOzbiBpbnRlcm5hY2lvbmFsIGVzdGFibGVjaWRhIGVuIDxiPnByb2Nlc29zIGRlIGluZXN0YWJpbGlkYWQsPC9iPiBxdWUgbm8gZXMgbnVlc3RybyBjYXNvIiwgYXNldmVyw7MgbGEgcmVjdG9yYSBkZWwgQ05FLCA8Yj5Tb2NvcnJvIEhlcm7DoW5kZXo8L2I+AGQCAg9kFgJmD2QWEmYPFQEYMjcvMDcvMjAxMiAwMjozODozNyBwLm0uZAIBDw8WAh8ABRkvTm90aWNpYXNFbGVjdG9yYWxlcy5hc3B4ZBYCZg8WAh8BBRNOb3RpY2lhc0VsZWN0b3JhbGVzZAICDxUBATFkAgMPDxYEHwAFXC9Ob3RpY2lhcy9UdVZvdG8vTm90aWNpYXNFbGVjdG9yYWxlcy9IYWJpbGl0YXJhbi1jZW50cm9zLXBpbG90b3MtZW4tTWlyYW5kYS1wYXJhLXNpbXVsYS5hc3B4HwIFZU5vdGljaWFzIGRlIE5vdGljaWFzRWxlY3RvcmFsZXM6IEhhYmlsaXRhcsOhbiBjZW50cm9zIHBpbG90b3MgZW4gTWlyYW5kYSBwYXJhIHNpbXVsYWNybyBkZSBlbGVjY2lvbmVzZBYCZg8VAURIYWJpbGl0YXLDoW4gY2VudHJvcyBwaWxvdG9zIGVuIE1pcmFuZGEgcGFyYSBzaW11bGFjcm8gZGUgZWxlY2Npb25lc2QCBA8WAh8BBSs8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxkaXYgY2xhc3M9InNsaWRlcyI+ZAIFDxYCHwMCARYCZg9kFgJmD2QWBgIBDw8WBB8ABVwvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvSGFiaWxpdGFyYW4tY2VudHJvcy1waWxvdG9zLWVuLU1pcmFuZGEtcGFyYS1zaW11bGEuYXNweB8CBWVOb3RpY2lhcyBkZSBOb3RpY2lhc0VsZWN0b3JhbGVzOiBIYWJpbGl0YXLDoW4gY2VudHJvcyBwaWxvdG9zIGVuIE1pcmFuZGEgcGFyYSBzaW11bGFjcm8gZGUgZWxlY2Npb25lc2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC8yYjNmYzQ4Yy0wZDhkLTQ2YTktODI3ZS0yZThmZmM0OGYyZDQvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAIDDxYCHwEFKkxvcyBjZW50cm9zIGNvbnRhcsOhbiBjb24gY2luY28gbWVzYXM8L2JyPmQCBA8VARFDcsOpZGl0b3M6IEdvb2dsZWQCBg8WAh8BBQw8L2Rpdj48L2Rpdj5kAgcPZBYEAgEPZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzJiM2ZjNDhjLTBkOGQtNDZhOS04MjdlLTJlOGZmYzQ4ZjJkNC8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgIPFQELQ3LDqWRpdG9zOiBkAggPFQQADkhPWSAxMTowOSBhLm0uaExvcyBjZW50cm9zIHBpbG90b3MgcGFyYSBlbCBwcmltZXIgc2ltdWxhY3JvIG5hY2lvbmFsIGVzdGFyw6FuIHViaWNhZG9zIGVuIHRyZXMgbXVuaWNpcGlvcyBkZSBsYSByZWdpw7NuAGQCAw9kFgJmD2QWEmYPFQEYMjcvMDcvMjAxMiAwMjozODozNyBwLm0uZAIBDw8WAh8ABRAvQ2FuZGlkYXRvcy5hc3B4ZBYCZg8WAh8BBQpDYW5kaWRhdG9zZAICDxUBATlkAgMPDxYEHwAFUy9Ob3RpY2lhcy9UdVZvdG8vQ2FuZGlkYXRvcy9DYXByaWxlcy1SYWRvbnNraS1lc3RhcmEtZXN0ZS12aWVybmVzLWVuLWVsLWVzdGFkby5hc3B4HwIFUU5vdGljaWFzIGRlIENhbmRpZGF0b3M6IENhcHJpbGVzIFJhZG9uc2tpIGVzdGFyw6EgZXN0ZSB2aWVybmVzIGVuIGVsIGVzdGFkbyBTdWNyZWQWAmYPFQE5Q2FwcmlsZXMgUmFkb25za2kgZXN0YXLDoSBlc3RlIHZpZXJuZXMgZW4gZWwgZXN0YWRvIFN1Y3JlZAIEDxYCHwEFKzxkaXYgY2xhc3M9ImNvbnRhaW5lciI+PGRpdiBjbGFzcz0ic2xpZGVzIj5kAgUPFgIfAwIBFgJmD2QWAmYPZBYGAgEPDxYEHwAFUy9Ob3RpY2lhcy9UdVZvdG8vQ2FuZGlkYXRvcy9DYXByaWxlcy1SYWRvbnNraS1lc3RhcmEtZXN0ZS12aWVybmVzLWVuLWVsLWVzdGFkby5hc3B4HwIFUU5vdGljaWFzIGRlIENhbmRpZGF0b3M6IENhcHJpbGVzIFJhZG9uc2tpIGVzdGFyw6EgZXN0ZSB2aWVybmVzIGVuIGVsIGVzdGFkbyBTdWNyZWQWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC8zZWIyMTkwOS0yYWVkLTQ5MDItOGMzOC00MjQ2YWUxYjdiYmYvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAIDDxYCHwEFJ0EgbGEgZmVjaGEgaGEgcmVjb3JyaWRvIDg5IHB1ZWJsb3M8L2JyPmQCBA8VARhDcsOpZGl0b3M6IERvcmlzIEJhcnJpb3NkAgYPFgIfAQUMPC9kaXY+PC9kaXY+ZAIHD2QWBAIBD2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC8zZWIyMTkwOS0yYWVkLTQ5MDItOGMzOC00MjQ2YWUxYjdiYmYvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAICDxUBC0Nyw6lkaXRvczogZAIIDxUEAA5IT1kgMDk6MzcgYS5tLuwBRWwgY2FuZGlkYXRvIHByZXNpZGVuY2lhbCwgZXN0YXLDoSByZWNvcmllbmRvIGVsIDxiPmVzdGFkbyBTdWNyZTwvYj4gY29tbyBwYXJ0ZSBkZSBzdSByZWNvcnJpZG8gZGUgY2FtcGHDsWEgPGI+InB1ZWJsbyBwb3IgcHVlYmxvIi48L2I+ICJZYSBsbGV2YW1vcyA8Yj44OSBwdWVibG9zIHZpc2l0YWRvcyw8L2I+IHkgYWhvcmEgZXMgY3VhbmRvIiwgZXNjcmliacOzIENhcHJpbGVzIFJhZG9uc2tpIGVuIFR3aXR0ZXIAZAIED2QWAmYPZBYSZg8VARgyNy8wNy8yMDEyIDAyOjM4OjM3IHAubS5kAgEPDxYCHwAFGS9Ob3RpY2lhc0VsZWN0b3JhbGVzLmFzcHhkFgJmDxYCHwEFE05vdGljaWFzRWxlY3RvcmFsZXNkAgIPFQEBMmQCAw8PFgQfAAVNL05vdGljaWFzL1R1Vm90by9Ob3RpY2lhc0VsZWN0b3JhbGVzL0NsYXZlcy1zb2JyZS1lbC1EYXRhLUNlbnRlci1kZWwtQ05FLmFzcHgfAgVFTm90aWNpYXMgZGUgTm90aWNpYXNFbGVjdG9yYWxlczogQ2xhdmVzIHNvYnJlIGVsIERhdGEgQ2VudGVyIGRlbCBDTkUgZBYCZg8VASRDbGF2ZXMgc29icmUgZWwgRGF0YSBDZW50ZXIgZGVsIENORSBkAgQPFgIfAQUrPGRpdiBjbGFzcz0iY29udGFpbmVyIj48ZGl2IGNsYXNzPSJzbGlkZXMiPmQCBQ8WAh8DAgEWAmYPZBYCZg9kFgYCAQ8PFgQfAAVNL05vdGljaWFzL1R1Vm90by9Ob3RpY2lhc0VsZWN0b3JhbGVzL0NsYXZlcy1zb2JyZS1lbC1EYXRhLUNlbnRlci1kZWwtQ05FLmFzcHgfAgVFTm90aWNpYXMgZGUgTm90aWNpYXNFbGVjdG9yYWxlczogQ2xhdmVzIHNvYnJlIGVsIERhdGEgQ2VudGVyIGRlbCBDTkUgZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzUwMzM5NjFlLTcyMWItNGFmYi1hYWM2LWVkN2JhMDRkNTYyNy8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgMPFgIfAQUZU2UgZGlvIGEgY29ub2NlciBob3k8L2JyPmQCBA8VARFDcsOpZGl0b3M6IEdvb2dsZWQCBg8WAh8BBQw8L2Rpdj48L2Rpdj5kAgcPZBYEAgEPZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzUwMzM5NjFlLTcyMWItNGFmYi1hYWM2LWVkN2JhMDRkNTYyNy8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgIPFQELQ3LDqWRpdG9zOiBkAggPFQQADkhPWSAwNjo0MSBhLm0uowFFbCBQb2RlciBFbGVjdG9yYWwgaW5hdWd1csOzIGhveSBlbCBjZW50cm8gZGUgaW5mb3JtYWNpw7NuIHF1ZSBmdW5jaW9uYXLDoSBlbiBsb3MgY29taWNpb3MgcHJlc2lkZW5jaWFsZXMgZGVsIDcgZGUgb2N0dWJyZSwgcmV2aXNlIGFsZ3Vub3MgZGV0YWxsZXMgc29icmUgZXN0ZSB0ZW1hAGQCBQ9kFgJmD2QWEmYPFQEYMjcvMDcvMjAxMiAwMjozODozNyBwLm0uZAIBDw8WAh8ABRkvTm90aWNpYXNFbGVjdG9yYWxlcy5hc3B4ZBYCZg8WAh8BBRNOb3RpY2lhc0VsZWN0b3JhbGVzZAICDxUBAjI2ZAIDDw8WBB8ABVsvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvQ29udmVydGlyLWFsZWdyaWEtZW4tdm90b3MtcGlkaW8tQ2FwcmlsZXMtUmFkb25raS5hc3B4HwIFU05vdGljaWFzIGRlIE5vdGljaWFzRWxlY3RvcmFsZXM6IENvbnZlcnRpciBhbGVncmlhIGVuIHZvdG9zIHBpZGnDsyBDYXByaWxlcyBSYWRvbmtpZBYCZg8VATJDb252ZXJ0aXIgYWxlZ3JpYSBlbiB2b3RvcyBwaWRpw7MgQ2FwcmlsZXMgUmFkb25raWQCBA8WAh8BBSs8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxkaXYgY2xhc3M9InNsaWRlcyI+ZAIFDxYCHwMCARYCZg9kFgJmD2QWBgIBDw8WBB8ABVsvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvQ29udmVydGlyLWFsZWdyaWEtZW4tdm90b3MtcGlkaW8tQ2FwcmlsZXMtUmFkb25raS5hc3B4HwIFU05vdGljaWFzIGRlIE5vdGljaWFzRWxlY3RvcmFsZXM6IENvbnZlcnRpciBhbGVncmlhIGVuIHZvdG9zIHBpZGnDsyBDYXByaWxlcyBSYWRvbmtpZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzQzZjQ5ZDhiLWIxZDItNGU1Ni1hMGMwLWJhYTVmOWQzNjcyZS8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgMPFgIfAQUrRWwgYXNwaXJhbnRlIGFuZGEgcmVjb3JyaWVuZG8gZWwgbGxhbm88L2JyPmQCBA8VARVDcsOpZGl0b3M6IFByZW5zYSBIQ1JkAgYPFgIfAQUMPC9kaXY+PC9kaXY+ZAIHD2QWBAIBD2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC80M2Y0OWQ4Yi1iMWQyLTRlNTYtYTBjMC1iYWE1ZjlkMzY3MmUvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAICDxUBC0Nyw6lkaXRvczogZAIIDxUEABUyNi8wNy8yMDEyIDA4OjI3IHAubS5NRWwgY2FuZGlkYXRvIGNvbnRpbnXDsyBlbiBsYSBlbnRpZGFkIGxsYW5lcmEgc3VzIHJlY29ycmlkb3MgInB1ZWJsbyBhIHB1ZWJsbyIAZAIGD2QWAmYPZBYSZg8VARgyNy8wNy8yMDEyIDAyOjM4OjM3IHAubS5kAgEPDxYCHwAFGS9Ob3RpY2lhc0VsZWN0b3JhbGVzLmFzcHhkFgJmDxYCHwEFE05vdGljaWFzRWxlY3RvcmFsZXNkAgIPFQECNDFkAgMPDxYEHwAFWS9Ob3RpY2lhcy9UdVZvdG8vTm90aWNpYXNFbGVjdG9yYWxlcy9aYXJhemEtc2UtZGVzYm9yZG8tZW4tYXBveW8tYS1DYXByaWxlcy1SYWRvbnNraS5hc3B4HwIFUU5vdGljaWFzIGRlIE5vdGljaWFzRWxlY3RvcmFsZXM6IFphcmF6YSBzZSBkZXNib3Jkw7MgZW4gYXBveW8gYSBDYXByaWxlcyBSYWRvbnNraWQWAmYPFQEwWmFyYXphIHNlIGRlc2JvcmTDsyBlbiBhcG95byBhIENhcHJpbGVzIFJhZG9uc2tpZAIEDxYCHwEFKzxkaXYgY2xhc3M9ImNvbnRhaW5lciI+PGRpdiBjbGFzcz0ic2xpZGVzIj5kAgUPFgIfAwIBFgJmD2QWAmYPZBYGAgEPDxYEHwAFWS9Ob3RpY2lhcy9UdVZvdG8vTm90aWNpYXNFbGVjdG9yYWxlcy9aYXJhemEtc2UtZGVzYm9yZG8tZW4tYXBveW8tYS1DYXByaWxlcy1SYWRvbnNraS5hc3B4HwIFUU5vdGljaWFzIGRlIE5vdGljaWFzRWxlY3RvcmFsZXM6IFphcmF6YSBzZSBkZXNib3Jkw7MgZW4gYXBveW8gYSBDYXByaWxlcyBSYWRvbnNraWQWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC84NjdiMTUwOC1hNWViLTRmNTktYTg2Yi01MTQwNTI4NTUyNjYvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAIDDxYCHwFlZAIEDxUBFUNyw6lkaXRvczogUHJlbnNhIEhDUmQCBg8WAh8BBQw8L2Rpdj48L2Rpdj5kAgcPZBYEAgEPZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50Lzg2N2IxNTA4LWE1ZWItNGY1OS1hODZiLTUxNDA1Mjg1NTI2Ni8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgIPFQELQ3LDqWRpdG9zOiBkAggPFQQAFTI2LzA3LzIwMTIgMDc6NTIgcC5tLnNNdWNoYXMgcGVyc29uYXMsIGVzcGVjaWFsbWVudGUgbXVqZXJlcywgc2FsaWVyb24gYWwgZW5jdWVudHJvIGRlbCBhc3BpcmFudGUgcHJlc2lkZW5jaWFsIHByb2N1cmFuZG8gdmVybGUgeSB0b2NhcmxlAGQCBw9kFgJmD2QWEmYPFQEYMjcvMDcvMjAxMiAwMjozODozNyBwLm0uZAIBDw8WAh8ABRAvQ2FuZGlkYXRvcy5hc3B4ZBYCZg8WAh8BBQpDYW5kaWRhdG9zZAICDxUBAjE1ZAIDDw8WBB8ABVIvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2hhdmV6LXByb21ldGUtbWVqb3Jhci1pbmZyYWVzdHJ1Y3R1cmEtZGUtQ2FyYWNhcy5hc3B4HwIFSk5vdGljaWFzIGRlIENhbmRpZGF0b3M6IENow6F2ZXogcHJvbWV0ZSBtZWpvcmFyIGluZnJhZXN0cnVjdHVyYSBkZSBDYXJhY2FzZBYCZg8VATJDaMOhdmV6IHByb21ldGUgbWVqb3JhciBpbmZyYWVzdHJ1Y3R1cmEgZGUgQ2FyYWNhc2QCBA8WAh8BBSs8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxkaXYgY2xhc3M9InNsaWRlcyI+ZAIFDxYCHwMCARYCZg9kFgJmD2QWBgIBDw8WBB8ABVIvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2hhdmV6LXByb21ldGUtbWVqb3Jhci1pbmZyYWVzdHJ1Y3R1cmEtZGUtQ2FyYWNhcy5hc3B4HwIFSk5vdGljaWFzIGRlIENhbmRpZGF0b3M6IENow6F2ZXogcHJvbWV0ZSBtZWpvcmFyIGluZnJhZXN0cnVjdHVyYSBkZSBDYXJhY2FzZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50LzM1ZDFjNjk0LTAwYmItNGY4Ny1iNzMzLTZmYjBkNDhhNWE5ZS8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgMPFgIfAQUrTXVkYXLDoW4gbGEgYmFzZSDDoWVyZWEgYSBGdWVydGUgVGl1bmE8L2JyPmQCBA8VARJDcsOpZGl0b3M6IEFyY2hpdm9kAgYPFgIfAQUMPC9kaXY+PC9kaXY+ZAIHD2QWBAIBD2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC8zNWQxYzY5NC0wMGJiLTRmODctYjczMy02ZmIwZDQ4YTVhOWUvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAICDxUBC0Nyw6lkaXRvczogZAIIDxUEABUyNi8wNy8yMDEyIDA3OjM4IHAubS6JAUVsIHByZXNpZGVudGUgPGI+SHVnbyBDaMOhdmV6LCBpbmRpY8OzIGRlc2RlIEVsIFZhbGxlPC9iPiB1bmEgc2VyaWUgZGUgcHJveWVjdG9zIHJlbGFjaW9uYWRvcyBjb24gZWwgbWVqb3JhbWllbnRvIGRlIGxhIGNpdWRhZCBjYXBpdGFsLg0KAGQCCA9kFgJmD2QWEmYPFQEYMjcvMDcvMjAxMiAwMjozODozNyBwLm0uZAIBDw8WAh8ABRAvQ2FuZGlkYXRvcy5hc3B4ZBYCZg8WAh8BBQpDYW5kaWRhdG9zZAICDxUBAjI5ZAIDDw8WBB8ABVMvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2FwcmlsZXMtUmFkb25za2ktYWZpcm1hLXF1ZS0tc2UtYWNhYm8tbGEtY2hhY2hhcmEuYXNweB8CBV5Ob3RpY2lhcyBkZSBDYW5kaWRhdG9zOiBDYXByaWxlcyBSYWRvbnNraSBhZmlybWEgcXVlICJzZSBhY2Fiw7MgbGEgY2jDoWNoYXJhIGRlIGVzdGUgZ29iaWVybm8iZBYCZg8VAVBDYXByaWxlcyBSYWRvbnNraSBhZmlybWEgcXVlICZxdW90O3NlIGFjYWLDsyBsYSBjaMOhY2hhcmEgZGUgZXN0ZSBnb2JpZXJubyZxdW90O2QCBA8WAh8BBSs8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxkaXYgY2xhc3M9InNsaWRlcyI+ZAIFDxYCHwMCARYCZg9kFgJmD2QWBgIBDw8WBB8ABVMvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2FwcmlsZXMtUmFkb25za2ktYWZpcm1hLXF1ZS0tc2UtYWNhYm8tbGEtY2hhY2hhcmEuYXNweB8CBV5Ob3RpY2lhcyBkZSBDYW5kaWRhdG9zOiBDYXByaWxlcyBSYWRvbnNraSBhZmlybWEgcXVlICJzZSBhY2Fiw7MgbGEgY2jDoWNoYXJhIGRlIGVzdGUgZ29iaWVybm8iZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50L2I2ZGMwZmMyLWJiZGItNDk3NC1hMTM5LTJiZjAzZTFlMTljYi8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgMPFgIfAQUuUmVhbGl6w7MgcmVjb3JyaWRvIHBvciBlbCBlc3RhZG8gR3XDoXJpY288L2JyPmQCBA8VARRDcsOpZGl0b3M6IENvcnRlc8OtYWQCBg8WAh8BBQw8L2Rpdj48L2Rpdj5kAgcPZBYEAgEPZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50L2I2ZGMwZmMyLWJiZGItNDk3NC1hMTM5LTJiZjAzZTFlMTljYi8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgIPFQEOQ3LDqWRpdG9zOiDDmk5kAggPFQQAFTI2LzA3LzIwMTIgMDY6MjMgcC5tLqACRWwgY2FuZGlkYXRvIHByZXNpZGVuY2lhbCBkZSBvcG9zaWNpw7NuPGI+LCBIZW5yaXF1ZSBDYXByaWxlcyBSYWRvbnNraTwvYj4gb2ZyZWNlIHVuIG1pdMOtbiBwYXJhIHN1cyBzZWd1aWRvcmVzIGRlIFZhbGxlIGRlIExhIFBhc2N1YSwgZW4gZWwgZXN0YWRvIEd1w6FyaWNvLCBlc3RlIGp1ZXZlcy4gQWxsw60gc2FsdWTDsyBhIGxhcyBtdWplcmVzIHkgasOzdmVuZXMgZGUgbGEgem9uYSBpbnNpc3RpZW5kbyBxdWUgInNvbiBlbCBmdXR1cm8geSBsYSBmdWVyemEgZGVsIGNhbWJpbyBlbiBlbCBwYcOtcyIuAGQCCQ9kFgJmD2QWEmYPFQEYMjcvMDcvMjAxMiAwMjozODozNyBwLm0uZAIBDw8WAh8ABRAvQ2FuZGlkYXRvcy5hc3B4ZBYCZg8WAh8BBQpDYW5kaWRhdG9zZAICDxUBAjM0ZAIDDw8WBB8ABUIvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2hhdmV6LS1Zby1zb3ktdW4taG9tYnJlLWRlLWNhbGxlLmFzcHgfAgU6Tm90aWNpYXMgZGUgQ2FuZGlkYXRvczogQ2jDoXZlejogWW8gc295IHVuIGhvbWJyZSBkZSBjYWxsZWQWAmYPFQEiQ2jDoXZlejogWW8gc295IHVuIGhvbWJyZSBkZSBjYWxsZWQCBA8WAh8BBSs8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxkaXYgY2xhc3M9InNsaWRlcyI+ZAIFDxYCHwMCARYCZg9kFgJmD2QWBgIBDw8WBB8ABUIvTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvQ2hhdmV6LS1Zby1zb3ktdW4taG9tYnJlLWRlLWNhbGxlLmFzcHgfAgU6Tm90aWNpYXMgZGUgQ2FuZGlkYXRvczogQ2jDoXZlejogWW8gc295IHVuIGhvbWJyZSBkZSBjYWxsZWQWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC9mYzIyNmYwNi04ZmI0LTQ3ZjItOWNmMy1jZmU1MDkyODQ4ZmIvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAIDDxYCHwEFKFByZXNpZGVudGUgSHVnbyBDaMOhdmV6IGVuIEVsIFZhbGxlPC9icj5kAgQPFQEWQ3LDqWRpdG9zOiBDYXB0dXJhIFZUVmQCBg8WAh8BBQw8L2Rpdj48L2Rpdj5kAgcPZBYEAgEPZBYCZg8VAWk8aW1nIGFsdD0iIiBzcmM9Ii9nZXRhdHRhY2htZW50L2ZjMjI2ZjA2LThmYjQtNDdmMi05Y2YzLWNmZTUwOTI4NDhmYi8uYXNweD9tYXhTaWRlU2l6ZT00MTkiIGJvcmRlcj0iMCIgLz5kAgIPFQELQ3LDqWRpdG9zOiBkAggPFQQAFTI2LzA3LzIwMTIgMDU6MjAgcC5tLosBTGEgdGFyZGUgZGUgZXN0ZSBqdWV2ZXMgZWwgcHJlc2lkZW50ZSBkZSBsYSBSZXDDumJsaWNhIDxiPkh1Z28gQ2jDoXZleiwgcXVlIHJlY29ycmVyw6EgbGEgYXZlbmlkYSBJbnRlcmNvbXVuYWw8L2I+IGRlIGxhIHBhcnJvcXVpYSBFbCBWYWxsZQBkAgoPZBYCZg9kFhJmDxUBGDI3LzA3LzIwMTIgMDI6Mzg6MzcgcC5tLmQCAQ8PFgIfAAUQL0NhbmRpZGF0b3MuYXNweGQWAmYPFgIfAQUKQ2FuZGlkYXRvc2QCAg8VAQE0ZAIDDw8WBB8ABU8vTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvLUVzdGFtb3MtY29tcHJvbWV0aWRvcy1jb24tdW5hLUNhcmFjYXMtc2VndXJhLS5hc3B4HwIFSE5vdGljaWFzIGRlIENhbmRpZGF0b3M6IOKAnEVzdGFtb3MgY29tcHJvbWV0aWRvcyBjb24gdW5hIENhcmFjYXMgc2VndXJhImQWAmYPFQE14oCcRXN0YW1vcyBjb21wcm9tZXRpZG9zIGNvbiB1bmEgQ2FyYWNhcyBzZWd1cmEmcXVvdDtkAgQPFgIfAQUrPGRpdiBjbGFzcz0iY29udGFpbmVyIj48ZGl2IGNsYXNzPSJzbGlkZXMiPmQCBQ8WAh8DAgEWAmYPZBYCZg9kFgYCAQ8PFgQfAAVPL05vdGljaWFzL1R1Vm90by9DYW5kaWRhdG9zLy1Fc3RhbW9zLWNvbXByb21ldGlkb3MtY29uLXVuYS1DYXJhY2FzLXNlZ3VyYS0uYXNweB8CBUhOb3RpY2lhcyBkZSBDYW5kaWRhdG9zOiDigJxFc3RhbW9zIGNvbXByb21ldGlkb3MgY29uIHVuYSBDYXJhY2FzIHNlZ3VyYSJkFgJmDxUBaTxpbWcgYWx0PSIiIHNyYz0iL2dldGF0dGFjaG1lbnQvZTgwZWQ2YWMtNmE3Mi00ODg4LWE1NDQtMjhlN2FjMGQzMjM2Ly5hc3B4P21heFNpZGVTaXplPTQxOSIgYm9yZGVyPSIwIiAvPmQCAw8WAh8BBTpDYXJhY2FzIGVzIGxhIGTDqWNpbWEgY2l1ZGFkIG3DoXMgcGVsaWdyb3NhIGRlbCBtdW5kbzwvYnI+ZAIEDxUBIkNyw6lkaXRvczogUHJlbnNhIFZvbHVudGFkIFBvcHVsYXJkAgYPFgIfAQUMPC9kaXY+PC9kaXY+ZAIHD2QWBAIBD2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC9lODBlZDZhYy02YTcyLTQ4ODgtYTU0NC0yOGU3YWMwZDMyMzYvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAICDxUBC0Nyw6lkaXRvczogZAIIDxUEABUyNi8wNy8yMDEyIDA0OjIxIHAubS6jAkFzw60gbG8gYWZpcm3DsyBlbCBjb29yZGluYWRvciBuYWNpb25hbCBkZWwgQ29tYW5kbyBWZW5lenVlbGEsIExlb3BvbGRvIEzDs3BleiwgZW4gdW5hIGFzYW1ibGVhIHF1ZSBzb3N0dXZvIGNvbiBsb3MgaGFiaXRhbnRlcyBkZSBsYSBwYXJyb3F1aWEgU2FudGEgUm9zYWzDrWEsIGVuIGRvbmRlIGEgc3UgdmV6IGV4cGxpY8OzIGVsIHBsYW4gU2VndXJpZGFkIFBhcmEgVG9kb3MgcXVlIHByZXNlbnRhIGVsIGNhbmRpZGF0byBwcmVzaWRlbmNpYWwgZGUgbGEgTVVELCBIZW5yaXF1ZSBDYXByaWxlcyBSYWRvbnNraQBkAgsPZBYCZg9kFhJmDxUBGDI3LzA3LzIwMTIgMDI6Mzg6MzcgcC5tLmQCAQ8PFgIfAAUZL05vdGljaWFzRWxlY3RvcmFsZXMuYXNweGQWAmYPFgIfAQUTTm90aWNpYXNFbGVjdG9yYWxlc2QCAg8VAQEyZAIDDw8WBB8ABVwvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvQ05FLS1EYXRhLWNlbnRlci11bmEtbnVldmEtZ2FyYW50aWEtcGFyYS1sb3MtcHJvY2UuYXNweB8CBWNOb3RpY2lhcyBkZSBOb3RpY2lhc0VsZWN0b3JhbGVzOiBDTkU6IERhdGEgY2VudGVyIHVuYSBudWV2YSBnYXJhbnTDrWEgcGFyYSBsb3MgcHJvY2Vzb3MgZWxlY3RvcmFsZXNkFgJmDxUBQkNORTogRGF0YSBjZW50ZXIgdW5hIG51ZXZhIGdhcmFudMOtYSBwYXJhIGxvcyBwcm9jZXNvcyBlbGVjdG9yYWxlc2QCBA8WAh8BBSs8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxkaXYgY2xhc3M9InNsaWRlcyI+ZAIFDxYCHwMCARYCZg9kFgJmD2QWBgIBDw8WBB8ABVwvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvQ05FLS1EYXRhLWNlbnRlci11bmEtbnVldmEtZ2FyYW50aWEtcGFyYS1sb3MtcHJvY2UuYXNweB8CBWNOb3RpY2lhcyBkZSBOb3RpY2lhc0VsZWN0b3JhbGVzOiBDTkU6IERhdGEgY2VudGVyIHVuYSBudWV2YSBnYXJhbnTDrWEgcGFyYSBsb3MgcHJvY2Vzb3MgZWxlY3RvcmFsZXNkFgJmDxUBaTxpbWcgYWx0PSIiIHNyYz0iL2dldGF0dGFjaG1lbnQvM2UyODE2M2UtYjFhYS00NDA0LThjNzMtYjRmNjVhNTgxMDQ4Ly5hc3B4P21heFNpZGVTaXplPTQxOSIgYm9yZGVyPSIwIiAvPmQCAw8WAh8BBTpPcHRpbWl6YXLDoSBjb211bmljYWNpw7NuIGNvbiBlbCByZXN0byBkZSBsb3MgY2VudHJvczwvYnI+ZAIEDxUBH0Nyw6lkaXRvczogQ2FwdHVyYSBHbG9ib3Zpc2nDs25kAgYPFgIfAQUMPC9kaXY+PC9kaXY+ZAIHD2QWBAIBD2QWAmYPFQFpPGltZyBhbHQ9IiIgc3JjPSIvZ2V0YXR0YWNobWVudC8zZTI4MTYzZS1iMWFhLTQ0MDQtOGM3My1iNGY2NWE1ODEwNDgvLmFzcHg/bWF4U2lkZVNpemU9NDE5IiBib3JkZXI9IjAiIC8+ZAICDxUBC0Nyw6lkaXRvczogZAIIDxUEABUyNi8wNy8yMDEyIDA0OjE0IHAubS6uAUVsIG51ZXZvIHNpc3RlbWEgcGVybWl0aXLDoSA8Yj5tZWpvcmFyIGxvcyBlc3TDoW5kYXJlcyBkZSBzZWd1cmlkYWQ8L2I+IGVuIGxhcyB0ZWxlY29tdW5pY2FjaW9uZXMgeSBsYSA8Yj5jb211bmljYWNpw7NuIGNvbiB0b2RvcyBsb3MgY2VudHJvcyBkZSBkYXRvcyBxdWUgaGF5IGVuIGVsIHBhw61zPC9iPgBkAgUPZBYEZg9kFgJmD2QWBmYPZBYCZg8VBIkBaHR0cDovL3J1dGFlbGVjdG9yYWwudWx0aW1hc25vdGljaWFzLmNvbS52ZS8yMDEyLzA3L2xhLXNhY2Vkb3J0aXNhLWRlLW1hcmlhLWxpb256YS1ndWFyZGEtZWwtc2VjcmV0by1kZWwtcmVzdWx0YWRvLWRlLWxhcy1wcmVzaWRlbmNpYWxlcy9VTGEgc2FjZXJkb3Rpc2EgZGUgTWFyw61hIExpb256YSBndWFyZGEgZWwgc2VjcmV0byBkZWwgcmVzdWx0YWRvIGRlIGxhcyBwcmVzaWRlbmNpYWxlc1VMYSBzYWNlcmRvdGlzYSBkZSBNYXLDrWEgTGlvbnphIGd1YXJkYSBlbCBzZWNyZXRvIGRlbCByZXN1bHRhZG8gZGUgbGFzIHByZXNpZGVuY2lhbGVzFTI0LzA3LzIwMTIgMTE6MTggYS5tLmQCAQ9kFgJmDxUEXGh0dHA6Ly9ydXRhZWxlY3RvcmFsLnVsdGltYXNub3RpY2lhcy5jb20udmUvMjAxMi8wNy9sYXMtZnJhc2VzLWNsYXZlcy1kZS1qdWxpby1sZW9uLWhlcmVkaWEvKExhcyBmcmFzZXMgY2xhdmVzIGRlIEp1bGlvIExlw7NuIEhlcmVkaWEoTGFzIGZyYXNlcyBjbGF2ZXMgZGUgSnVsaW8gTGXDs24gSGVyZWRpYRUyMy8wNy8yMDEyIDEyOjUwIGEubS5kAgIPZBYCZg8VBGJodHRwOi8vcnV0YWVsZWN0b3JhbC51bHRpbWFzbm90aWNpYXMuY29tLnZlLzIwMTIvMDcvdHV2b3RvbW92aWwtbGxlZ28tYS1sYS10aWVycmEtZGUtbWFyaWEtbGlvbnphLzBUdXZvdG9tw7N2aWwgbGxlZ8OzIGEgbGEgdGllcnJhIGRlIE1hcsOtYSBMaW9uemEwVHV2b3RvbcOzdmlsIGxsZWfDsyBhIGxhIHRpZXJyYSBkZSBNYXLDrWEgTGlvbnphFTIzLzA3LzIwMTIgMTI6NDcgYS5tLmQCAg9kFgJmD2QWBmYPZBYCZg9kFgJmDxUEIS9PcGluaW9uL0Zpcm1hcy9OaWNtZXItRXZhbnMuYXNweAxOaWNtZXIgRXZhbnNLL09waW5pb24vRmlybWFzL05pY21lci1FdmFucy9DYXByaWxlcy1hbC1uby1maXJtYXItdGllbmUtdHJlcy1vcGNpb25lcy5hc3B4KUNhcHJpbGVzIGFsIG5vIGZpcm1hciB0aWVuZSB0cmVzIG9wY2lvbmVzZAIBD2QWAmYPZBYCZg8VBCQvT3Bpbmlvbi9GaXJtYXMvSnVzdG8tTW9yYW8tLTEtLmFzcHgLSnVzdG8gTW9yYW9XL09waW5pb24vRmlybWFzL0p1c3RvLU1vcmFvLS0xLS9UcmFuc2ljaW9uLWRlLWxlbWEtZWxlY3RvcmFsLS1Db3Jhem9uLVZlbmV6b2xhbm8tYS5hc3B4SFRyYW5zaWNpw7NuIGRlIGxlbWEgZWxlY3RvcmFsOiBDb3JhesOzbiBWZW5lem9sYW5vIGEgQ29yYXrDs24gT2zDrW1waWNvIGQCAg9kFgJmD2QWAmYPFQQhL09waW5pb24vRmlybWFzL05pY21lci1FdmFucy5hc3B4DE5pY21lciBFdmFuc0ovT3Bpbmlvbi9GaXJtYXMvTmljbWVyLUV2YW5zL0F1dG9jcml0aWNhLS1jaGlwLS1nYXNvbGluYS15LWNvcnJ1cGNpb24uYXNweCpBdXRvY3LDrXRpY2EsIGNoaXAsIGdhc29saW5hIHkgY29ycnVwY2nDs25kAgcPZBYIAgQPZBYCZg9kFgZmD2QWAmYPZBYCZg8VBAhlbmRlcnNvbgRzYW56GDI3LzA3LzIwMTIgMDE6NDQ6MTggcC5tLo0BYXJpYSBlc2NhbGVyYSBtZWPDoW5pY2FzIHBhcmEgcXVlIGxvcyB2aWVqbyAgDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KZAIBD2QWAmYPZBYCZg8VBAhlbmRlcnNvbgRzYW56GDI3LzA3LzIwMTIgMDE6NDQ6MTggcC5tLo0BYXJpYSBlc2NhbGVyYSBtZWPDoW5pY2FzIHBhcmEgcXVlIGxvcyB2aWVqbyAgDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KZAICD2QWAmYPZBYCZg8VBAdqdXN0aW5hB2ppbWVuZXoYMjcvMDcvMjAxMiAwNzozOTo0MyBhLm0uiwFzaSB5byBmdWVyYSBwcmVzaWRlbnRlIGhpY2llcmEgbG8gcXVlIGVzdGEgaGFjaWVuZG8gY2hhdmV6IHNvbG8sIHF1ZSBtZXRlcmlhIGVuIGNpbnR1cmEgYSB0b2RvIGFxdWVsIHF1ZSBtZSBhZHZlcnNhIGNvbiBlbmdhw7FvIHkgbWVudGlyYSBhZAIND2QWBAIBD2QWCmYPZBYCZg9kFgJmDxUG9wE8aW1nIGJvcmRlcj0nMCcgc3JjPScvQ01TUGFnZXMvR2V0RmlsZS5hc3B4P0dVSUQ9NjRjNmFkODctNDNlZi00YmRkLTk4NmMtNGZkYTRhN2Y5YzhiJndpZHRoPTI5NScgYWx0PSdWSURFTzogQSBDaMOhdmV6IGxlIHRvY2Fyb24gY2FjZXJvbGFzIGVuIGxvcyBlZGlmaWNpb3MgZGUgRWwgVmFsbGUnIHRpdGxlPSdWSURFTzogQSBDaMOhdmV6IGxlIHRvY2Fyb24gY2FjZXJvbGFzIGVuIGxvcyBlZGlmaWNpb3MgZGUgRWwgVmFsbGUnIC8+GHN0eWxlPSdmb250LXNpemU6IDE4cHg7JxNqdWwgMjYgLSAwNzoyMiBwLm0uVy9Ob3RpY2lhcy9UdVZvdG8vTm90aWNpYXNFbGVjdG9yYWxlcy9WSURFTy0tQS1DaGF2ZXotbGUtdG9jYXJvbi1jYWNlcm9sYXMtZW4tbG9zLWVkaWZpY0JWSURFTzogQSBDaMOhdmV6IGxlIHRvY2Fyb24gY2FjZXJvbGFzIGVuIGxvcyBlZGlmaWNpb3MgZGUgRWwgVmFsbGUQLSAxMzM2NSB2aXN0YShzKWQCAQ9kFgJmD2QWAmYPFQYAABNqdWwgMjcgLSAwNTo0OCBhLm0uSC9Ob3RpY2lhcy9UdVZvdG8vQ2FuZGlkYXRvcy9Mby1xdWUtbm8tdmlvLWRlbC1hY3RvLWRlLUNoYXZlei1lbi1FbC1WYWxsZS5MbyBxdWUgbm8gdmlvIGRlbCBhY3RvIGRlIENow6F2ZXogZW4gRWwgVmFsbGUgEC0gMTA4NzggdmlzdGEocylkAgIPZBYCZg9kFgJmDxUGAAATanVsIDI3IC0gMDU6NTAgYS5tLj4vTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvRU4tRk9UT1MtLUNoYXZlei1yZWNvcnJpby1FbC1WYWxsZSVFTiBGT1RPUzogQ2jDoXZleiByZWNvcnJpw7MgRWwgVmFsbGUgDy0gMzg2MCB2aXN0YShzKWQCAw9kFgJmD2QWAmYPFQYAABNqdWwgMjYgLSAwNjo0NCBwLm0uRS9Ob3RpY2lhcy9UdVZvdG8vQ2FuZGlkYXRvcy9DaGF2ZXotLUFtcGxpYXJlbW9zLWNyZWRpdG9zLWRlLXZpdmllbmRhcytDaMOhdmV6OiBBbXBsaWFyZW1vcyBjcsOpZGl0b3MgZGUgdml2aWVuZGFzDy0gMjU3OSB2aXN0YShzKWQCBA9kFgJmD2QWAmYPFQYAABNqdWwgMjcgLSAwNTo0OSBhLm0uRi9Ob3RpY2lhcy9UdVZvdG8vQ2FuZGlkYXRvcy9FTi1GT1RPUy0tQ2FwcmlsZXMtUmFkb25za2ktbGxhbm8tYS1kZW50cm8rRU4gRk9UT1M6IENhcHJpbGVzIFJhZG9uc2tpIGxsYW5vIGEgZGVudHJvIA8tIDI0MjcgdmlzdGEocylkAgUPZBYKZg9kFgJmD2QWAmYPFQbnATxpbWcgYm9yZGVyPScwJyBzcmM9Jy9DTVNQYWdlcy9HZXRGaWxlLmFzcHg/R1VJRD02MzlhM2U1Mi0yODczLTRjNTUtYWM2ZC1hN2UxNTc4M2ZjZDEmd2lkdGg9Mjk1JyBhbHQ9J1RhcmVrIFdpbGxpYW0gU2FhYiBzZSBkZWZpZW5kZSB5IGRpY2UgcXVlIHNpZ3VlIGVuIGVsIFBzdXYnIHRpdGxlPSdUYXJlayBXaWxsaWFtIFNhYWIgc2UgZGVmaWVuZGUgeSBkaWNlIHF1ZSBzaWd1ZSBlbiBlbCBQc3V2JyAvPhhzdHlsZT0nZm9udC1zaXplOiAxOHB4OycTanVsIDE4IC0gMTA6MDYgYS5tLlcvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvVGFyZWstV2lsbGlhbS1TYWFiLXNlLWRlZmllbmRlLXktZGljZS1xdWUtc2lndWUtZW46VGFyZWsgV2lsbGlhbSBTYWFiIHNlIGRlZmllbmRlIHkgZGljZSBxdWUgc2lndWUgZW4gZWwgUHN1dgktIDQgdm90b3NkAgEPZBYCZg9kFgJmDxUGAAATanVsIDIxIC0gMDg6NTEgcC5tLk4vTm90aWNpYXMvVHVWb3RvL0NhbmRpZGF0b3MvRU4tVklERU8tLU1vbWVudG9zLW11c2ljby1iYWlsYWJsZXMtZGUtQ2hhdmV6LWVuLVo4RU4gVklERU86IE1vbWVudG9zIG3DunNpY28tYmFpbGFibGVzIGRlIENow6F2ZXogZW4gWnVsaWEJLSA0IHZvdG9zZAICD2QWAmYPZBYCZg8VBgAAE2p1bCAyNiAtIDA3OjIyIHAubS5XL05vdGljaWFzL1R1Vm90by9Ob3RpY2lhc0VsZWN0b3JhbGVzL1ZJREVPLS1BLUNoYXZlei1sZS10b2Nhcm9uLWNhY2Vyb2xhcy1lbi1sb3MtZWRpZmljQlZJREVPOiBBIENow6F2ZXogbGUgdG9jYXJvbiBjYWNlcm9sYXMgZW4gbG9zIGVkaWZpY2lvcyBkZSBFbCBWYWxsZQktIDQgdm90b3NkAgMPZBYCZg9kFgJmDxUGAAATanVsIDE4IC0gMTI6MTAgcC5tLlcvTm90aWNpYXMvVHVWb3RvL05vdGljaWFzRWxlY3RvcmFsZXMvSW50ZW5jaW9uLWRlLXZvdG8tZGUtSHVnby1DaGF2ZXotYmFqby01LXB1bnRvcy1lbi1OSW50ZW5jacOzbiBkZSB2b3RvIGRlIEh1Z28gQ2jDoXZleiBiYWrDsyA1IHB1bnRvcyBlbiBqdWxpbywgc2Vnw7puIEhpbnRlcmxhY2VzCS0gMyB2b3Rvc2QCBA9kFgJmD2QWAmYPFQYAABNqdWwgMTcgLSAwMzoxMSBwLm0uTi9Ob3RpY2lhcy9UdVZvdG8vQ2FuZGlkYXRvcy9Gb3Rvcy0tQS1DaGF2ZXotby1hLUNhcHJpbGVzLVJhZG9uc2tpLS0tQS1xdWllbi1sZU9Gb3RvczogQSBDaMOhdmV6IG8gYSBDYXByaWxlcyBSYWRvbnNraS4gwr9BIHF1acOpbiBsZSBxdWVkYSBtZWpvciBlbCBzb21icmVybz8gCS0gMyB2b3Rvc2QCDw9kFgICAg9kFgZmD2QWAmYPZBYCZg8VBBNqdWwgMjAgLSAwNDo1OSBwLm0uTi9Ob3RpY2lhcy9UdVZvdG8vRG9jdW1lbnRvcy9SZXN1bHRhZG9zLWRlLWxhLXVsdGltYS1lbmN1ZXN0YS1kZS1Db25zdWx0b3Jlcy0zMDZSZXN1bHRhZG9zIGRlIGxhIMO6bHRpbWEgZW5jdWVzdGEgZGUgQ29uc3VsdG9yZXMgMzAuMTENLSAxMTc1IHZpc3Rhc2QCAQ9kFgJmD2QWAmYPFQQTZmViIDEyIC0gMDY6MDAgYS5tLkgvTm90aWNpYXMvVHVWb3RvL0RvY3VtZW50b3MvLUNvbW8tc2Utdm90YS1lbi1sYXMtUHJpbWFyaWFzLWVuLXR1LWVzdGFkby0uwr9Dw7NtbyBzZSB2b3RhIGVuIGxhcyBQcmltYXJpYXMgZW4gdHUgZXN0YWRvPw4tIDExOTE3IHZpc3Rhc2QCAg9kFgJmD2QWAmYPFQQTZW5lIDEzIC0gMDY6MTQgcC5tLjQvTm90aWNpYXMvVHVWb3RvL0RvY3VtZW50b3MvTGEtQ29uc3RpdHVjaW9uLWRlbC0yMDEzGUxhIENvbnN0aXR1Y2nDs24gZGVsIDIwMTMMLSAyMzcgdmlzdGFzZAIQD2QWAgICD2QWCGYPZBYCZg9kFgJmDxUEE2p1bCAyNSAtIDAyOjM2IHAubS4xL05vdGljaWFzL1R1Vm90by9VTlJhZGlvL1R1LXZvdG8tbW92aWwtZW4tWWFyYWN1eRpUdSB2b3RvIG3Ds3ZpbCBlbiBZYXJhY3V5IAstIDEyIHZpc3Rhc2QCAQ9kFgJmD2QWAmYPFQQTanVsIDA0IC0gMDM6MjMgcC5tLkAvTm90aWNpYXMvVHVWb3RvL1VOUmFkaW8vRWwtY2xpbWEtZWxlY3RvcmFsLWVuLWVsLWVzdGFkby1Cb2xpdmFyKUVsIGNsaW1hIGVsZWN0b3JhbCBlbiBlbCBlc3RhZG8gQm9sw612YXIgDC0gMjM3IHZpc3Rhc2QCAg9kFgJmD2QWAmYPFQQTanVsIDAzIC0gMDQ6MjMgcC5tLkIvTm90aWNpYXMvVHVWb3RvL1VOUmFkaW8vVHUtdm90by1tb3ZpbC1wdWxzYS1sYS1vcGluaW9uLWVuLUJvbGl2YXItVHUgdm90byBtw7N2aWwgcHVsc2EgbGEgb3BpbmnDs24gZW4gQm9sw612YXIgDC0gMTU4IHZpc3Rhc2QCAw9kFgJmD2QWAmYPFQQTanVsIDAzIC0gMDQ6MTggcC5tLj0vTm90aWNpYXMvVHVWb3RvL1VOUmFkaW8vVHUtdm90by1tb3ZpbC1lbi1lbC1PcmllbnRlLWRlbC1wYWlzJ1R1IHZvdG8gbcOzdmlsIGVuIGVsIE9yaWVudGUgZGVsIHBhw61zIAwtIDEzMyB2aXN0YXNkZIzdwWDm09OP0/png6lZpbjofC1v" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=BPfCWMl6gADXWSwZtgnFb8wJ0dwtEQxgQhuxzI6-ITiDdc4MQWvDke-R8PoKEtl_icwen6-yqGgPK1T5s2r_qkFBspQ1&amp;t=634629638960175429" type="text/javascript"></script>
+
+<div><input type="hidden" name="lng" id="lng" value="es-VE" />
+</div>
+<script src="/ScriptResource.axd?d=quyphw4xiYdOUjENhe9g1_WXzSQzFtoGKQArew9k5aUMOKMOeezBpj2dG24nrU3Fh4Mz_9CucAkzvlbz16V0t52puux-5BgBKYHz4NCpOMvhziuMDfKaHWrEzylcpI0yUCRALLZQmdnQGyrqnKydWKJK2zUUnYIz3Km6YowYIqTd4bAu0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=65h57Ly0XhzOGHaz04TdDZnHROIMpIyTeRzOITIlQwM0e_w9PXSlN6ta5dg1MEDJ9IctC6k83jFimuUCoHFr-NyHYPptEKoIcB-EENvqkqXrDIXnvJrqERGjUjqSRhHRdndkXTNuEk5gLm_n-LXnkW8myswAnITOmz-clwVDnDG_g25n0&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+    <div id="manPortal">
+
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+
+     
+<!--Contenedor principal-->
+<div id="contendor_general_default">
+	<!--Publicidad Header-->
+	<div id="contendor_publi_principal_default">
+		<div id="publi_iden_principal_izq_default">
+			<!-- Begin -  Site: Ultimas noticias Zone: BANNER ESTANDAR SUPERIOR (TUVOTO) --> <script language="javascript"  type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 415;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=83330&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=83330&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script> <noscript>
+    <a href="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=415&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=83330" target="_blank">
+    <img src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=415&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=83330" width="728" height="90" border="0"  alt="" /></a>
+</noscript> <!-- End -  Site: Ultimas noticias Zone: BANNER ESTANDAR SUPERIOR (TUVOTO) -->
+		</div>
+		<div id="conter_publi_iden_der_principal_default">
+			<!-- Begin -  Site: Ultimas noticias Zone: BOTON CABECERO SECCION (TUVOTO) --> <script language="javascript"  type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 416;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=14501&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=14501&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script> <noscript>
+    <a href="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=416&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=14501" target="_blank">
+    <img src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=416&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=14501" width="228" height="90" border="0"  alt="" /></a>
+</noscript> <!-- End -  Site: Ultimas noticias Zone: BOTON CABECERO SECCION (TUVOTO) -->
+		</div>
+	</div>
+	<!--fin publicidad header-->
+	<!--header-->
+	<div id="header_middle">
+		<ul class="left">
+			<li><a href="/Inicio.aspx">Inicio</a></li>
+			<li>|</li>
+			<li><a href="/Servicios.aspx">Servicios</a></li>
+			<li>|</li>
+			<li><a href="http://www.cadena-capriles.com/anunciantes/">Anunciantes</a></li>
+			<li>|</li>
+			<li><a href="/Servicios/clasificados.aspx">Clasificados</a></li>
+			<li>|</li>
+			<!--<li><a href="#">Tu Zona</a></li>
+			<li>|</li>-->
+			<li><a href="http://epaper.ultimasnoticias.com.ve/" target='_blank'>Edición Impresa</a></li>
+                        <li>|</li>
+                        <li><a href="/Servicios/clima.aspx?w=395269">Clima:</a></li>
+
+		</ul>
+		
+
+
+<div id="contenedor_clima" class="contenedor_clima">
+<div class='contentdiv'>Caracas&nbsp&nbsp;30°&nbsp&nbsp;<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br /></div><div class='contentdiv'>Maracaibo&nbsp&nbsp;27°&nbsp&nbsp;<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br /></div><div class='contentdiv'>Valencia&nbsp&nbsp;29°&nbsp&nbsp;<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br /></div><div class='contentdiv'>Barquisimeto&nbsp&nbsp;27°&nbsp&nbsp;<img src="http://l.yimg.com/a/i/us/we/52/30.gif"/><br /></div>
+</div>
+
+<div class="pagination" style="position: absolute; visibility: hidden" id="paginate-contenedor_clima"></div>	
+
+<script type="text/javascript">
+  ContentSlider("contenedor_clima", 3000)
+
+</script>
+
+
+
+		<div class="busqueda right">
+		
+
+
+
+
+
+<script type="text/javascript" src="http://www.google.co.ve/cse/brand?form=cse-search-box&amp;lang=es"></script>
+<style media="screen" type="text/css">
+.defaultTextActive { color: #a1a1a1; font-style: italic; }
+</style>
+<script type="text/javascript">
+
+
+
+    function DetectoEnter(e) {
+
+        var cx = document.getElementById('cx');
+        var cof = document.getElementById('cof');
+        var ie = document.getElementById('ie');
+        var q = document.getElementById('q');
+
+
+
+            if (window.event) { e = window.event; }
+            if (e.keyCode == 13) {
+
+
+                destino = '/ResultadosBusqueda.aspx';
+                
+                key = q.value.toString().replace(' ', '+');
+                url = destino + '?cx=' + cx.value + '&cof=' + cof.value + '&ie=' + ie.value + '&q=' + key + '&sa=Buscar&siteurl=www.ultimasnoticias.com.ve#1092';
+
+                document.getElementById("form1").action = url;
+                //alert(q.value);
+
+           }
+        
+    }
+
+
+    function Redireccionar() {
+
+        //alert("_");
+
+		var cx = document.getElementById('cx');
+		var cof = document.getElementById('cof');
+		var ie = document.getElementById('ie');
+		var q = document.getElementById('q');
+		//var selectPropio = document.getElementById('selectPropio');
+
+		if (q.value.toString().length > 0) {
+
+			var destino = '';
+			var url = '';
+			var key = '';
+
+			//if (selectPropio.checked == false) {
+
+				destino = 'http://www.ultimasnoticias.com.ve/ResultadosBusqueda.aspx';
+				key = q.value.toString().replace(' ', '+');
+				url = destino + '?cx=' + cx.value + '&cof=' + cof.value + '&ie=' + ie.value + '&q=' + key + '&sa=Buscar&siteurl=www.ultimasnoticias.com.ve#1092';
+
+
+			//}
+			//else {
+
+			//	destino = 'http://www.ultimasnoticias.com.ve/busqueda.aspx';
+			//	key = q.value.toString();
+			//	url = destino + '?searchtext=' + key;
+			//}
+
+			location.href = url;
+		}
+	}
+
+
+</script>
+
+<style type="text/css">
+	@import url(http://www.google.co.ve/cse/api/branding.css);
+</style>
+<div class="cse-branding-right" style="background-color: #FFFFFF; color: #000000">
+	<div class="cse-branding-form">
+		
+		<!--<div style="width: 241px;">-->
+			<input type="hidden" name="cx" id="cx" value="partner-pub-0948728800350681:uzqh4lhxtuv" />
+			<input type="hidden" name="cof" id="cof" value="FORID:10" />
+			<input type="hidden" name="ie" id="ie" value="ISO-8859-1" />
+			<input type="text" class="defaultTextActive" name="q" id="q" size="25" onkeypress="DetectoEnter(event); " onclick="this.value ='';" title="Escribe lo que deseas Buscar" value="Escribe lo que deseas Buscar" />
+			<input type="submit" name="sa" id="sa" value="Buscar" onclick="Redireccionar(); return false;"; />
+		<!--</div>-->
+		<div>
+		
+		</div>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+<div class="iconos_right right" sylte="margin-right:15px;">
+		<a href="/Servicios/RSS.aspx">
+			<img width="22" alt="RSS Últimas Noticias" class="right" src="/App_Themes/UNoticias/piezas/rss_26.png"></a>
+		<a target="_blank" href="http://www.facebook.com/ultimasnoticiasve">
+			<img width="22" alt="Facebook Últimas Noticias" class="right" src="/App_Themes/UNoticias/piezas/facebook_26.png"></a> <a target="_blank" href="http://twitter.com/#!/unoticias">
+					<img width="22" alt="Twitter Últimas Noticias" class="right" src="/App_Themes/UNoticias/piezas/twitter_26.png"></a>
+	</div>
+
+
+
+	</div>
+	<div id="barra_middle">
+		
+			<img src="/App_Themes/UNoticias/piezas/top_tuvoto2012.jpg" width="984" height="115" align="left" usemap="#planetmap"
+				style="margin-left: 0px; margin-top: 0px;" />
+			<map name="planetmap">
+				  <area shape="rect" coords="160,55,500,20"  href="http://www.ultimasnoticias.com.ve/Inicio.aspx" title="Ir a Últimas Noticias" />
+				  <area shape="rect" coords="840,50,870,20"  href="http://www.facebook.com/ultimasnoticiasve" title="Facebook" />
+				  <area shape="rect" coords="875,50,905,20" href="http://twitter.com/#!/unoticias" title="Twitter" />
+				  <area shape="rect" coords="910,50,935,20" href="http://www.youtube.com/user/UNoticias1" title="YouTube" />
+				  <area shape="rect" coords="980,50,945,20" href="javascript:openRadioGlobalWindow()" title="ÚN Radio" />
+				 <area shape="rect" coords="830,115,980,90" href="http://www.ultimasnoticias.com.ve/Inicio.aspx" title="Ir a Últimas Noticias" />
+			</map> 
+								
+	</div>
+	<!--menu-->
+	
+<script>
+	function openRadioGlobalWindow() {
+		window.open("http://www.ultimasnoticias.com.ve/radioglobal/ultimasnoticiasradio.asp", "radioGlobalWindow", "toolbar =0,location=0,status=0,scrollbars=0,resizable=0,width=468,height=195");
+	}
+</script>
+<div id="menu">
+	<div id="cab-middle" class="estirar left">
+		<ul id="nav" class="nav estirar">
+            <li class="pri" style="padding-left: 6px;"><a href="/tuvoto/Inicio.aspx" title="Inicio">Inicio</a>				
+			</li>
+            <li class="pri" style="padding-left: 6px;"><a href="/tuvoto/NoticiasElectorales.aspx" title="Noticias Electorales">Noticias Electorales</a>				
+			</li>
+			
+			<li style="padding-left: 6px;"><a href="/tuvoto/Candidatos.aspx" title="Candidatos">Candidatos</a>				
+			</li>
+			<li style="padding-left: 6px;"><a href="/tuvoto/Opinion.aspx" title="Opinión">Opinión</a>				
+			</li> 
+            <li style="padding-left: 6px;"><a href="/tuvoto/Participa.aspx" title="Participa">Participa</a>				
+			</li>
+			<li style="padding-left: 6px;"><a href="/tuvoto/Documentos.aspx" title="Documentos">Documentos</a>				
+			</li>
+			<!--<li style="padding-left: 6px;"><a href="/tuvoto/Multimedia.aspx" title="Multimedia">Multimedia</a>				
+			</li> -->
+
+            <li><a href="/tuvoto/Multimedia.aspx" title="Multimedia">Multimedia</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="/tuvoto/Multimedia.aspx" title="Videos">Videos</a></li>							
+							<li><a href="http://www.ultimasnoticias.com.ve/infografias/precandidatos-bajo-la-lupa.aspx" title="Infografías">Infografías</a></li>							
+						</ul>
+					</div>
+					
+				</div>
+                
+
+			<!--</li>
+<li class="pri" style="padding-left: 6px;"><a href="/tuvoto/RutaPrimarias.aspx" title="Ruta Primarias">Primarias MUD</a>				
+			</li>	
+			 <li style="padding-left: 6px;"><a href="/tuvoto/Juegos.aspx" title="Juegos">Juegos</a>				
+			</li> -->
+           <!--  <li style="padding-left: 6px;"><a href="/tuvoto/UltimasElecciones.aspx" title="Últimas Elecciones">Últimas Elecciones</a>				
+			</li>	 -->
+             <li style="padding-left: 6px;"><a href="http://rutaelectoral.ultimasnoticias.com.ve/" title="Blog">Blog</a>				
+			</li>	
+             <li style="padding-left: 6px;"><a href="/tuvoto/ruta-electoral.aspx" title="Ruta eléctoral">Ruta Electoral</a>				
+			</li>
+             <li style="padding-left: 6px;"><a href="/tuvoto/juegos/cotorra.aspx" title="Juegos">Juegos</a>				
+			</li>	
+
+
+            	
+									
+		</ul>
+	</div>	
+
+</div>
+
+	<!--fin menu-->
+
+
+	<!--fin header-->
+	<br />
+
+<!-- - -->
+ 
+<!--INICIO FLAT-->
+<!--contenido left-->
+<div id="contenedor_default_izq" class="left">
+		<!--BreadCrums-->
+		<div style="margin-bottom:3px;">
+     		   <h1 class="unbreadcrumbs"><a href="/TuVoto/Inicio.aspx" class="CMSBreadCrumbsLink">TuVoto</a> <img src="/App_Themes/Default/Images/Design/Controls/Breadcrumbs/arrowright.png" /> <span  class="CMSBreadCrumbsCurrentItem">InicioTuVoto</span>
+</h1>
+    		</div>
+	<!--columna izquierda interna-->
+	<div id="columna_izq_interna">
+		
+		<!--Noticias RIO-->
+		
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl00_ctl00_linkSeccion" href="/Candidatos.aspx">Candidatos</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />0
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl00_ctl00_linkTitulo" title="Noticias de Candidatos: Chávez ratifica que continuará haciendo cadenas" href="/Noticias/TuVoto/Candidatos/Chavez-ratifica-que-continuara-haciendo-cadenas.aspx">Chávez ratifica que continuará haciendo cadenas</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl00_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de Candidatos: Chávez ratifica que continuará haciendo cadenas" href="/Noticias/TuVoto/Candidatos/Chavez-ratifica-que-continuara-haciendo-cadenas.aspx"><img alt="" src="/getattachment/70d67e81-92f2-40ca-9b4c-1b626f901423/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Insiste en que no hace campaña durante las cadenas</br>
+			
+			Créditos: Captura VTV
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            HOY 02:18 p.m.</span>
+        |
+        <b>"El país tiene el derecho a estar informado.</b> Eso es lo contitucional", expresó el mandatario en transmisión de <b>cadena nacional</b> a propósito de la entrega de créditos otorgados por la banca pública </p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl01_ctl00_linkSeccion" href="/NoticiasElectorales.aspx">NoticiasElectorales</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />0
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl01_ctl00_linkTitulo" title="Noticias de NoticiasElectorales: CNE: Elecciones no requieren observación de la OEA" href="/Noticias/TuVoto/NoticiasElectorales/CNE--Elecciones-no-requieren-observacion-de-la-OEA.aspx">CNE: Elecciones no requieren observación de la OEA</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl01_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de NoticiasElectorales: CNE: Elecciones no requieren observación de la OEA" href="/Noticias/TuVoto/NoticiasElectorales/CNE--Elecciones-no-requieren-observacion-de-la-OEA.aspx"><img alt="" src="/getattachment/fd9887f7-c075-4c6a-b6fd-9af47d479a2f/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			
+			
+			Créditos: Google
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            HOY 12:00 p.m.</span>
+        |
+        <b>"Tenemos suficiente madurez electoral</b> como para no requerir ese tipo de observación internacional establecida en <b>procesos de inestabilidad,</b> que no es nuestro caso", aseveró la rectora del CNE, <b>Socorro Hernández</b></p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div style="width: 419px; border: 1px solid #CCCCCC; color: #8E8A8B; margin-bottom: 10px;
+    padding-bottom: 7px;">
+
+
+
+
+<!-- Begin -  Site: Ultimas noticias Zone: BANNER INTERMEDIO A TU VOTO -->
+<script language="javascript"  type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 453;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=65229&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=65229&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script>
+<noscript>
+    <a href="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=453&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=65229" target="_blank">
+    <img src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=453&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=65229" width="419" height="100" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: Ultimas noticias Zone: BANNER INTERMEDIO A TU VOTO -->
+
+
+
+</div>
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl02_ctl00_linkSeccion" href="/NoticiasElectorales.aspx">NoticiasElectorales</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />1
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl02_ctl00_linkTitulo" title="Noticias de NoticiasElectorales: Habilitarán centros pilotos en Miranda para simulacro de elecciones" href="/Noticias/TuVoto/NoticiasElectorales/Habilitaran-centros-pilotos-en-Miranda-para-simula.aspx">Habilitarán centros pilotos en Miranda para simulacro de elecciones</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl02_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de NoticiasElectorales: Habilitarán centros pilotos en Miranda para simulacro de elecciones" href="/Noticias/TuVoto/NoticiasElectorales/Habilitaran-centros-pilotos-en-Miranda-para-simula.aspx"><img alt="" src="/getattachment/2b3fc48c-0d8d-46a9-827e-2e8ffc48f2d4/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Los centros contarán con cinco mesas</br>
+			
+			Créditos: Google
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            HOY 11:09 a.m.</span>
+        |
+        Los centros pilotos para el primer simulacro nacional estarán ubicados en tres municipios de la región</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl03_ctl00_linkSeccion" href="/Candidatos.aspx">Candidatos</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />9
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl03_ctl00_linkTitulo" title="Noticias de Candidatos: Capriles Radonski estará este viernes en el estado Sucre" href="/Noticias/TuVoto/Candidatos/Capriles-Radonski-estara-este-viernes-en-el-estado.aspx">Capriles Radonski estará este viernes en el estado Sucre</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl03_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de Candidatos: Capriles Radonski estará este viernes en el estado Sucre" href="/Noticias/TuVoto/Candidatos/Capriles-Radonski-estara-este-viernes-en-el-estado.aspx"><img alt="" src="/getattachment/3eb21909-2aed-4902-8c38-4246ae1b7bbf/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			A la fecha ha recorrido 89 pueblos</br>
+			
+			Créditos: Doris Barrios
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            HOY 09:37 a.m.</span>
+        |
+        El candidato presidencial, estará recoriendo el <b>estado Sucre</b> como parte de su recorrido de campaña <b>"pueblo por pueblo".</b> "Ya llevamos <b>89 pueblos visitados,</b> y ahora es cuando", escribió Capriles Radonski en Twitter</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl04_ctl00_linkSeccion" href="/NoticiasElectorales.aspx">NoticiasElectorales</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />2
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl04_ctl00_linkTitulo" title="Noticias de NoticiasElectorales: Claves sobre el Data Center del CNE " href="/Noticias/TuVoto/NoticiasElectorales/Claves-sobre-el-Data-Center-del-CNE.aspx">Claves sobre el Data Center del CNE </a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl04_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de NoticiasElectorales: Claves sobre el Data Center del CNE " href="/Noticias/TuVoto/NoticiasElectorales/Claves-sobre-el-Data-Center-del-CNE.aspx"><img alt="" src="/getattachment/5033961e-721b-4afb-aac6-ed7ba04d5627/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Se dio a conocer hoy</br>
+			
+			Créditos: Google
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            HOY 06:41 a.m.</span>
+        |
+        El Poder Electoral inauguró hoy el centro de información que funcionará en los comicios presidenciales del 7 de octubre, revise algunos detalles sobre este tema</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div style="width: 419px; border: 1px solid #CCCCCC; color: #8E8A8B; margin-bottom: 10px;
+    padding-bottom: 7px;">
+
+
+
+<!-- Begin -  Site: Ultimas noticias Zone: BANNER INTERMEDIO B TU VOTO -->
+<script language="javascript"  type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 454;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=72456&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=72456&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script>
+<noscript>
+    <a href="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=454&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=72456" target="_blank">
+    <img src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=454&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=72456" width="419" height="100" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: Ultimas noticias Zone: BANNER INTERMEDIO B TU VOTO -->
+
+
+
+
+</div>
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl05_ctl00_linkSeccion" href="/NoticiasElectorales.aspx">NoticiasElectorales</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />26
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl05_ctl00_linkTitulo" title="Noticias de NoticiasElectorales: Convertir alegria en votos pidió Capriles Radonki" href="/Noticias/TuVoto/NoticiasElectorales/Convertir-alegria-en-votos-pidio-Capriles-Radonki.aspx">Convertir alegria en votos pidió Capriles Radonki</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl05_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de NoticiasElectorales: Convertir alegria en votos pidió Capriles Radonki" href="/Noticias/TuVoto/NoticiasElectorales/Convertir-alegria-en-votos-pidio-Capriles-Radonki.aspx"><img alt="" src="/getattachment/43f49d8b-b1d2-4e56-a0c0-baa5f9d3672e/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			El aspirante anda recorriendo el llano</br>
+			
+			Créditos: Prensa HCR
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 08:27 p.m.</span>
+        |
+        El candidato continuó en la entidad llanera sus recorridos "pueblo a pueblo"</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl06_ctl00_linkSeccion" href="/NoticiasElectorales.aspx">NoticiasElectorales</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />41
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl06_ctl00_linkTitulo" title="Noticias de NoticiasElectorales: Zaraza se desbordó en apoyo a Capriles Radonski" href="/Noticias/TuVoto/NoticiasElectorales/Zaraza-se-desbordo-en-apoyo-a-Capriles-Radonski.aspx">Zaraza se desbordó en apoyo a Capriles Radonski</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl06_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de NoticiasElectorales: Zaraza se desbordó en apoyo a Capriles Radonski" href="/Noticias/TuVoto/NoticiasElectorales/Zaraza-se-desbordo-en-apoyo-a-Capriles-Radonski.aspx"><img alt="" src="/getattachment/867b1508-a5eb-4f59-a86b-514052855266/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			
+			
+			Créditos: Prensa HCR
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 07:52 p.m.</span>
+        |
+        Muchas personas, especialmente mujeres, salieron al encuentro del aspirante presidencial procurando verle y tocarle</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl07_ctl00_linkSeccion" href="/Candidatos.aspx">Candidatos</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />15
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl07_ctl00_linkTitulo" title="Noticias de Candidatos: Chávez promete mejorar infraestructura de Caracas" href="/Noticias/TuVoto/Candidatos/Chavez-promete-mejorar-infraestructura-de-Caracas.aspx">Chávez promete mejorar infraestructura de Caracas</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl07_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de Candidatos: Chávez promete mejorar infraestructura de Caracas" href="/Noticias/TuVoto/Candidatos/Chavez-promete-mejorar-infraestructura-de-Caracas.aspx"><img alt="" src="/getattachment/35d1c694-00bb-4f87-b733-6fb0d48a5a9e/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Mudarán la base áerea a Fuerte Tiuna</br>
+			
+			Créditos: Archivo
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 07:38 p.m.</span>
+        |
+        El presidente <b>Hugo Chávez, indicó desde El Valle</b> una serie de proyectos relacionados con el mejoramiento de la ciudad capital.
+</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div style="width: 419px; border: 1px solid #CCCCCC; color: #8E8A8B; margin-bottom: 10px;
+    padding-bottom: 7px;">
+
+
+
+
+ <!-- Begin -  Site: Ultimas noticias Zone: BANNER INTERMEDIO C TU VOTO -->
+<script language="javascript"  type="text/javascript">
+<!--
+var browName = navigator.appName;
+var SiteID = 1;
+var ZoneID = 455;
+var browDateTime = (new Date()).getTime();
+if (browName=='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=61056&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+if (browName!='Netscape')
+{
+document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=61056&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');
+}
+// --> 
+</script>
+<noscript>
+    <a href="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=455&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=61056" target="_blank">
+    <img src="http://banmanpro.ultimasnoticias.com.ve/a.aspx?ZoneID=455&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=61056" width="419" height="100" border="0"  alt=""></a>
+</noscript>
+<!-- End -  Site: Ultimas noticias Zone: BANNER INTERMEDIO C TU VOTO -->
+
+
+
+
+
+
+</div>
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl08_ctl00_linkSeccion" href="/Candidatos.aspx">Candidatos</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />29
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl08_ctl00_linkTitulo" title="Noticias de Candidatos: Capriles Radonski afirma que &quot;se acabó la cháchara de este gobierno&quot;" href="/Noticias/TuVoto/Candidatos/Capriles-Radonski-afirma-que--se-acabo-la-chachara.aspx">Capriles Radonski afirma que &quot;se acabó la cháchara de este gobierno&quot;</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl08_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de Candidatos: Capriles Radonski afirma que &quot;se acabó la cháchara de este gobierno&quot;" href="/Noticias/TuVoto/Candidatos/Capriles-Radonski-afirma-que--se-acabo-la-chachara.aspx"><img alt="" src="/getattachment/b6dc0fc2-bbdb-4974-a139-2bf03e1e19cb/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Realizó recorrido por el estado Guárico</br>
+			
+			Créditos: Cortesía
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 06:23 p.m.</span>
+        |
+        El candidato presidencial de oposición<b>, Henrique Capriles Radonski</b> ofrece un mitín para sus seguidores de Valle de La Pascua, en el estado Guárico, este jueves. Allí saludó a las mujeres y jóvenes de la zona insistiendo que "son el futuro y la fuerza del cambio en el país".</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl09_ctl00_linkSeccion" href="/Candidatos.aspx">Candidatos</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />34
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl09_ctl00_linkTitulo" title="Noticias de Candidatos: Chávez: Yo soy un hombre de calle" href="/Noticias/TuVoto/Candidatos/Chavez--Yo-soy-un-hombre-de-calle.aspx">Chávez: Yo soy un hombre de calle</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl09_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de Candidatos: Chávez: Yo soy un hombre de calle" href="/Noticias/TuVoto/Candidatos/Chavez--Yo-soy-un-hombre-de-calle.aspx"><img alt="" src="/getattachment/fc226f06-8fb4-47f2-9cf3-cfe5092848fb/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Presidente Hugo Chávez en El Valle</br>
+			
+			Créditos: Captura VTV
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 05:20 p.m.</span>
+        |
+        La tarde de este jueves el presidente de la República <b>Hugo Chávez, que recorrerá la avenida Intercomunal</b> de la parroquia El Valle</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl10_ctl00_linkSeccion" href="/Candidatos.aspx">Candidatos</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />4
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl10_ctl00_linkTitulo" title="Noticias de Candidatos: “Estamos comprometidos con una Caracas segura&quot;" href="/Noticias/TuVoto/Candidatos/-Estamos-comprometidos-con-una-Caracas-segura-.aspx">“Estamos comprometidos con una Caracas segura&quot;</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl10_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de Candidatos: “Estamos comprometidos con una Caracas segura&quot;" href="/Noticias/TuVoto/Candidatos/-Estamos-comprometidos-con-una-Caracas-segura-.aspx"><img alt="" src="/getattachment/e80ed6ac-6a72-4888-a544-28e7ac0d3236/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Caracas es la décima ciudad más peligrosa del mundo</br>
+			
+			Créditos: Prensa Voluntad Popular
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 04:21 p.m.</span>
+        |
+        Así lo afirmó el coordinador nacional del Comando Venezuela, Leopoldo López, en una asamblea que sostuvo con los habitantes de la parroquia Santa Rosalía, en donde a su vez explicó el plan Seguridad Para Todos que presenta el candidato presidencial de la MUD, Henrique Capriles Radonski</p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<!-- CONTENEDOR DE LA NOTA -->
+<!--27/07/2012 02:38:37 p.m.-->
+<div class="noticia_rio">
+    <!-- PARA LA SECCIÓN DE LA NOTA -->
+    <p class="left">
+	
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl11_ctl00_linkSeccion" href="/NoticiasElectorales.aspx">NoticiasElectorales</a>			
+		|
+	</p>
+    <!-- PARA LA CANTIDAD DE COMENTARIOS DE LA NOTA -->
+    <p class="left">
+        <img src="/App_themes/UNoticias/piezas/coment.png" width="14" height="14" style="margin-top: 2px;
+            margin-right: 5px; margin-left: 5px" align="left" />2
+        comentario(s).</p>
+    <!-- PARA EL TITULO DE LA NOTA (CON SU LINK) -->
+     <h2>			
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl11_ctl00_linkTitulo" title="Noticias de NoticiasElectorales: CNE: Data center una nueva garantía para los procesos electorales" href="/Noticias/TuVoto/NoticiasElectorales/CNE--Data-center-una-nueva-garantia-para-los-proce.aspx">CNE: Data center una nueva garantía para los procesos electorales</a>
+	</h2>
+    <!-- PARA LA(S) FOTO(S) DE LA NOTA -->
+    <!--minicarrusel foto-->
+    <div class="carrusel3col">
+        <div class="container"><div class="slides">
+        
+
+
+<div class="photo-alt2">
+	<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiohome_queryrepeater_repItems_ctl11_ctl00_rptImagenesNota_ctl00_ctl00_linkImagen" title="Noticias de NoticiasElectorales: CNE: Data center una nueva garantía para los procesos electorales" href="/Noticias/TuVoto/NoticiasElectorales/CNE--Data-center-una-nueva-garantia-para-los-proce.aspx"><img alt="" src="/getattachment/3e28163e-b1aa-4404-8c73-b4f65a581048/.aspx?maxSideSize=419" border="0" /></a>
+	
+	<div class="sombra">
+		<div class="photo-caption">		
+			Optimizará comunicación con el resto de los centros</br>
+			
+			Créditos: Captura Globovisión
+		</div>
+        </div>
+</div>
+
+
+        </div></div>
+		
+			
+		
+        
+    </div>
+    <!--fin minicarrusel foto-->
+    <!-- FIN FOTO(S) DE LA NOTA -->
+    <!-- HORA DEL POST Y SUMARIO -->
+    <p>
+        <span>
+            26/07/2012 04:14 p.m.</span>
+        |
+        El nuevo sistema permitirá <b>mejorar los estándares de seguridad</b> en las telecomunicaciones y la <b>comunicación con todos los centros de datos que hay en el país</b></p>
+    <!-- ÍCONOS MULTIMEDIA -->
+    
+    <!-- FIN CONTENEDOR DE LA NOTA -->
+</div>
+
+
+<!-- PARA EL BANNER PUBLICITARIO: -->
+ <style type="text/css"> #masnoticias a{ font-weight:bold; text-decoration:none; color:#999; }</style>
+<div style="float:right;" id="masnoticias"><a title="Ir al Índice de todas las Noticias" href="/tuvoto/indiceTuVoto.aspx">Ver más noticias</a></div>
+		<!--Noticias RIO-->
+		<br clear="all" />
+	</div>
+	<!--fin columna Derecha interna-->
+	<!--columna Derecha interna-->
+	<div id="columna_der_interna">
+						<div style=" margin-bottom: 30px;">
+				<div style="background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FF9501;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    text-align: left;
+    text-transform: uppercase; margin-bottom: 7px;">
+				Tu Voto Móvil
+				</div></div>
+		<div id="renglon" style="border-bottom: #CCCCCC solid 1px; margin-bottom: 7px; padding-bottom: 7px;
+			text-align: left;">
+			<div id="titulo_nota" style="font-size: 14px">
+				<a href='http://rutaelectoral.ultimasnoticias.com.ve/2012/07/la-sacedortisa-de-maria-lionza-guarda-el-secreto-del-resultado-de-las-presidenciales/' title='La sacerdotisa de María Lionza guarda el secreto del resultado de las presidenciales'
+					style="color: #666666; font-size: 18px; text-decoration: none;" target="_blank">
+					La sacerdotisa de María Lionza guarda el secreto del resultado de las presidenciales
+				</a>
+			</div>
+			<div id="sumario_lista_tus_noticias_tu_voz">
+
+					<span style="color: #CC6600; font-size: 12px;">
+					24/07/2012 11:18 a.m.</span>
+				
+			</div>
+		</div>
+	
+		<div id="renglon" style="border-bottom: #CCCCCC solid 1px; margin-bottom: 7px; padding-bottom: 7px;
+			text-align: left;">
+			<div id="titulo_nota" style="font-size: 14px">
+				<a href='http://rutaelectoral.ultimasnoticias.com.ve/2012/07/las-frases-claves-de-julio-leon-heredia/' title='Las frases claves de Julio León Heredia'
+					style="color: #666666; font-size: 18px; text-decoration: none;" target="_blank">
+					Las frases claves de Julio León Heredia
+				</a>
+			</div>
+			<div id="sumario_lista_tus_noticias_tu_voz">
+
+					<span style="color: #CC6600; font-size: 12px;">
+					23/07/2012 12:50 a.m.</span>
+				
+			</div>
+		</div>
+	
+		<div id="renglon" style="border-bottom: #CCCCCC solid 1px; margin-bottom: 7px; padding-bottom: 7px;
+			text-align: left;">
+			<div id="titulo_nota" style="font-size: 14px">
+				<a href='http://rutaelectoral.ultimasnoticias.com.ve/2012/07/tuvotomovil-llego-a-la-tierra-de-maria-lionza/' title='Tuvotomóvil llegó a la tierra de María Lionza'
+					style="color: #666666; font-size: 18px; text-decoration: none;" target="_blank">
+					Tuvotomóvil llegó a la tierra de María Lionza
+				</a>
+			</div>
+			<div id="sumario_lista_tus_noticias_tu_voz">
+
+					<span style="color: #CC6600; font-size: 12px;">
+					23/07/2012 12:47 a.m.</span>
+				
+			</div>
+		</div>
+	
+
+<div>
+<h2 style=" background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FF9501;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    text-align: left;
+    text-transform: uppercase;">
+Destacado
+</h2>
+</div>
+
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl00_ctl00_linkImagen" href="/Noticias/TuVoto/NoticiasElectorales/Tu-Voto-Movil-estara-en-Margarita-el-proximo-marte.aspx"><img alt="" src="/getattachment/f6636d9e-ff64-4d6b-9f3a-a36148174596/Tu-Voto-Movil-estara-en-Margarita-el-proximo-marte.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl00_ctl00_linkTexto" href="/Noticias/TuVoto/NoticiasElectorales/Tu-Voto-Movil-estara-en-Margarita-el-proximo-marte.aspx">Tu Voto Móvil estará en Margarita el próximo martes</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>HOY 02:17 p.m.</span> | A casi de un mes de campaña, el ambiente electoral y los candidatos a la presidencia han estado muy movidos y Últimas Noticias no se ha perdido un detalle de esto. El próximo martes <b>31 de julio</b> estaremos en Nueva Esparta, para <b>pulsar las opiniones de los margariteños</b></p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl01_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/Capriles-Radonski--A-los-caraquenos-les-ofrecieron.aspx"><img alt="" src="/getattachment/c143b208-a76b-4d78-af2d-bd25800e5d81/Capriles-Radonski--A-los-caraquenos-les-ofrecieron.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl01_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/Capriles-Radonski--A-los-caraquenos-les-ofrecieron.aspx">Capriles Radonski: A los caraqueños les ofrecieron las mismas promesas recicladas</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>HOY 09:53 a.m.</span> | "Ayer <b>nada nuevo le ofrecieron a los caraqueños</b> 'de nuevo' las mismas promesas recicladas", expresó este viernes el candidato por la Mesa de la Unidad, Henrique Capriles Radonski, a través de <b>Twitter</b></p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl02_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/EN-FOTOS--Capriles-Radonski-llano-a-dentro.aspx"><img alt="" src="/getattachment/41f2c346-1cd1-4fce-a365-b225a94347e2/EN-FOTOS--Capriles-Radonski-llano-a-dentro.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl02_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/EN-FOTOS--Capriles-Radonski-llano-a-dentro.aspx">EN FOTOS: Capriles Radonski llano a dentro </a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>HOY 05:49 a.m.</span> | El candidato, quien encabezó una Asamblea del Progreso en el municipio Chaguaramas</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl03_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/Lo-que-no-vio-del-acto-de-Chavez-en-El-Valle.aspx"><img alt="" src="/getattachment/6541e02b-288f-4ecb-a9c9-f933ec927dd3/Lo-que-no-vio-del-acto-de-Chavez-en-El-Valle.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl03_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/Lo-que-no-vio-del-acto-de-Chavez-en-El-Valle.aspx">Lo que no vio del acto de Chávez en El Valle </a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>HOY 05:48 a.m.</span> | El mandatario recorrió la avenida Intercomunal en marco de la campaña 
+</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl04_ctl00_linkImagen" href="/Noticias/TuVoto/NoticiasElectorales/Comando-de-Chavez-juramento-trabajadores-en-Carabo.aspx"><img alt="" src="/getattachment/fca7b760-cf65-4cd0-8da7-3724229a2163/Comando-de-Chavez-juramento-trabajadores-en-Carabo.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl04_ctl00_linkTexto" href="/Noticias/TuVoto/NoticiasElectorales/Comando-de-Chavez-juramento-trabajadores-en-Carabo.aspx">Comando de Chávez juramentó trabajadores en Carabobo</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>26/07/2012 08:51 p.m.</span> | 120 sindicatos asistentes y más de 200 mil trabajadores se comprometieron a garantizar  la victoria del Presidente de la República</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl05_ctl00_linkImagen" href="/Noticias/TuVoto/NoticiasElectorales/VIDEO--A-Chavez-le-tocaron-cacerolas-en-los-edific.aspx"><img alt="" src="/getattachment/05c525c9-9378-461c-ac7b-131eb114f73a/VIDEO--A-Chavez-le-tocaron-cacerolas-en-los-edific.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl05_ctl00_linkTexto" href="/Noticias/TuVoto/NoticiasElectorales/VIDEO--A-Chavez-le-tocaron-cacerolas-en-los-edific.aspx">VIDEO: A Chávez le tocaron cacerolas en los edificios de El Valle</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>26/07/2012 07:22 p.m.</span> | Gritos a favor y en contra se escucharon entre la multitud. Los habitantes del sector compartieron fotos y videos a través de las redes sociales
+</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl06_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/VP--con-Capriles-Radonski-lo-nuevo-esta-por-ve--1-.aspx"><img alt="" src="/getattachment/0b14c920-723b-4b9a-9d9a-fb68f429f108/VP--con-Capriles-Radonski-lo-nuevo-esta-por-ve--1-.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl06_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/VP--con-Capriles-Radonski-lo-nuevo-esta-por-ve--1-.aspx">VP: con Capriles Radonski lo nuevo está por venir </a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>26/07/2012 02:23 p.m.</span> | Dirigentes del movimiento Voluntad Popular realizaron una reunión con los habitantes del estado Cojedes con el fin de presentar la propuesta de seguridad que plantea el candidato presidencial de la MUD</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl07_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/A-caballo-recibieron-a--Capriles-en-Las-Mercedes-d.aspx"></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl07_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/A-caballo-recibieron-a--Capriles-en-Las-Mercedes-d.aspx">A caballo recibieron a  Capriles en Las Mercedes del Llano</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>26/07/2012 12:16 p.m.</span> | Henrique Capriles Radonski realizó una caminata y um mitin en la población de Las Mercedes del Llano, en el estado Guárico</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl08_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/Candidato-Acosta-Chirinos--Proyecto-bolivariano-no.aspx"><img alt="" src="/getattachment/350e63bd-8e2a-4200-bea1-fb673fb0034f/Candidato-Acosta-Chirinos--Proyecto-bolivariano-no.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl08_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/Candidato-Acosta-Chirinos--Proyecto-bolivariano-no.aspx">Candidato Acosta Chirinos: Proyecto bolivariano no se ha cumplido</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>26/07/2012 10:15 a.m.</span> | En entrevista con Globovisión, el candidato presidencial, Yoel Acosta Chirinos, dijo que en Venezuela el "proyecto bolivariano no se ha cumplido" y aseguró que <b>es el momento de rescatar los "valores" del 4 de febrero de 1.992</b></p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl09_ctl00_linkImagen" href="/Noticias/TuVoto/NoticiasElectorales/RCTV-Trending-Topic-tras-promesa-de-Capriles-Radon.aspx"><img alt="" src="/getattachment/8dc661cf-f6b4-419d-90aa-31c9a49b8e2b/RCTV-Trending-Topic-tras-promesa-de-Capriles-Radon.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl09_ctl00_linkTexto" href="/Noticias/TuVoto/NoticiasElectorales/RCTV-Trending-Topic-tras-promesa-de-Capriles-Radon.aspx">RCTV Trending Topic tras promesa de Capriles Radonski de devolverle la señal</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>25/07/2012 08:57 p.m.</span> | "RCTV volverá a abrir sus puertas, Venezuela merece un Gobierno que genere empleos", dijo el aspirante presidencial</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+
+<div class="noticia_rio_peq">
+<h4>
+
+</h4>
+
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl10_ctl00_linkImagen" href="/Noticias/TuVoto/Candidatos/EN-VIVO--El-foro-en-Facebook-de-Capriles-Radonski.aspx"><img alt="" src="/getattachment/6136decb-56f1-4739-a0b5-6ef2341e2323/EN-VIVO--El-foro-en-Facebook-de-Capriles-Radonski.aspx?maxSideSize=201" border="0" /></a>
+
+<h3>
+<a id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneNoticiaRiosecundarioHome_repeaterRioSecundario_repItems_ctl10_ctl00_linkTexto" href="/Noticias/TuVoto/Candidatos/EN-VIVO--El-foro-en-Facebook-de-Capriles-Radonski.aspx">EN VIVO: El foro en Facebook de Capriles Radonski</a>
+</h3>
+
+<!-- HORA DEL POST Y SUMARIO -->
+<p> <span>25/07/2012 07:32 p.m.</span> | Trasladó su campaña a las redes sociales con un foro en Facebook donde interactúa con los ciudadanos</p>
+</div>
+<!-- PARA EL BANNER PUBLICITARIO: -->
+<style type="text/css"> #masnoticias a{ font-weight:bold; text-decoration:none; color:#999; }</style>
+<div style="float:right;" id="masnoticias"><a title="Ir al Índice de todas las Noticias" href="/tuvoto/opinion.aspx">Ver más noticias</a></div>				<div style=" margin-bottom: 30px;">
+				<div style="background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FF9501;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    text-align: left;
+    text-transform: uppercase; margin-bottom: 7px;">
+				Nuestras Firmas
+				</div>
+<div style="border-bottom: #CCCCCC solid 1px; margin-bottom:7px; padding-bottom:7px; text-align: left;">
+	<h1><a href='/Opinion/Firmas/Nicmer-Evans.aspx' style="color: #00568E; font-size: 14px; text-decoration: none;">
+		Nicmer Evans</a></h1>
+	<h2><a href='/Opinion/Firmas/Nicmer-Evans/Capriles-al-no-firmar-tiene-tres-opciones.aspx' style="color: #666666; font-size: 18px; text-decoration: none;">
+		Capriles al no firmar tiene tres opciones</a></h2>
+</div>
+<div style="border-bottom: #CCCCCC solid 1px; margin-bottom:7px; padding-bottom:7px; text-align: left;">
+	<h1><a href='/Opinion/Firmas/Justo-Morao--1-.aspx' style="color: #00568E; font-size: 14px; text-decoration: none;">
+		Justo Morao</a></h1>
+	<h2><a href='/Opinion/Firmas/Justo-Morao--1-/Transicion-de-lema-electoral--Corazon-Venezolano-a.aspx' style="color: #666666; font-size: 18px; text-decoration: none;">
+		Transición de lema electoral: Corazón Venezolano a Corazón Olímpico </a></h2>
+</div>
+<div style="border-bottom: #CCCCCC solid 1px; margin-bottom:7px; padding-bottom:7px; text-align: left;">
+	<h1><a href='/Opinion/Firmas/Nicmer-Evans.aspx' style="color: #00568E; font-size: 14px; text-decoration: none;">
+		Nicmer Evans</a></h1>
+	<h2><a href='/Opinion/Firmas/Nicmer-Evans/Autocritica--chip--gasolina-y-corrupcion.aspx' style="color: #666666; font-size: 18px; text-decoration: none;">
+		Autocrítica, chip, gasolina y corrupción</a></h2>
+</div> </div>
+	</div>
+	<!--fin columna Derecha interna-->
+</div>
+<!--fin contenido left-->
+<!--contenido right-->
+<div id="contenedor_default_der">
+	<div style="width: 300px; height: 124px; margin-bottom: 12px; text-align: center; padding-top: 40px; background: url(&quot;/app_themes/unoticias/contador.png&quot;) no-repeat scroll 0% 0% transparent;"><script type="text/javascript">
+				TargetDate = "10/07/2012 1:00 AM";
+				BackColor = "";
+				ForeColor = "#0272BA";
+				CountActive = true;
+				CountStepper = -1;
+				LeadingZero = true;
+				DisplayFormat = "%%D%% &nbsp;: %%H%% : %%M%% : &nbsp;%%S%% ";
+				FinishMessage = "Elecciones Presidenciales hoy!";
+				</script> <script language="JavaScript" src="/App_themes/UNoticias/js/countdown.js"></script></div><div style="margin-bottom:5px;text-align: left;"><a href="http://www.ultimasnoticias.com.ve/tuvoto/juegos/cotorra.aspx" title="Los mineros del carbón llegan a Madrid" style="color: #00568E; font-size:17px; text-decoration: none;" target="_blank">Consúltale a la cotorra electoral</a> <br />
+<a href="http://www.ultimasnoticias.com.ve/tuvoto/juegos/cotorra.aspx"><img width="310" border="0" alt="" src="http://c15124727.r27.cf2.rackcdn.com/TuVoto%20La%20Cotorra/cotorra.jpg" /></a></div>
+<br clear="all" /><div style="background-color: black;"><a title="" href="/Infografias/ABC-de-las-elecciones.aspx"> 		<img alt="" src="/getattachment/bdf1a954-4dc8-48ed-80f5-eeddfea3e5e4/.aspx?width=201&amp;height=148" border="0" /> 	</a></div><br />
+<div style="color: #FFFFFF; text-align: center;">			    		    		    		    		
+		<img src="/App_themes/Tuvoto/siyofuerapresidente.jpg" height="51px" width="316px"/>		
+	</div>
+<div id="mod_encuestacustomtable">
+	<div class="PollControl" style="color:#00568E;border-bottom-width: 0;">
+
+<div id="contenidoParticipa">
+                    <div id="cajaParticipa">
+                	    <div class="textoNombre" style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;">
+                    	        enderson
+                    	        &nbsp;
+                    	        sanz
+                    	        
+                    	        <span style="float:right; margin:0 10px 0 0"><b>
+                    	        27/07/2012 01:44:18 p.m.</b></span>
+                    	     
+                        </div>
+                        <div id="cajaContenidoParticipa" style="background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FFFFFF;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;">
+                    	    <div class="textoContenidoParticipa" style="color: #333333;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;">
+                    	         
+
+aria escalera mecánicas para que los viejo  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+                            </div>
+                        </div>
+                    </div>
+                    
+                   </div>
+<div id="contenidoParticipa">
+                    <div id="cajaParticipa">
+                	    <div class="textoNombre" style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;">
+                    	        enderson
+                    	        &nbsp;
+                    	        sanz
+                    	        
+                    	        <span style="float:right; margin:0 10px 0 0"><b>
+                    	        27/07/2012 01:44:18 p.m.</b></span>
+                    	     
+                        </div>
+                        <div id="cajaContenidoParticipa" style="background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FFFFFF;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;">
+                    	    <div class="textoContenidoParticipa" style="color: #333333;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;">
+                    	         
+
+aria escalera mecánicas para que los viejo  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+                            </div>
+                        </div>
+                    </div>
+                    
+                   </div>
+<div id="contenidoParticipa">
+                    <div id="cajaParticipa">
+                	    <div class="textoNombre" style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;">
+                    	        justina
+                    	        &nbsp;
+                    	        jimenez
+                    	        
+                    	        <span style="float:right; margin:0 10px 0 0"><b>
+                    	        27/07/2012 07:39:43 a.m.</b></span>
+                    	     
+                        </div>
+                        <div id="cajaContenidoParticipa" style="background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FFFFFF;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;">
+                    	    <div class="textoContenidoParticipa" style="color: #333333;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;">
+                    	         
+
+si yo fuera presidente hiciera lo que esta haciendo chavez solo, que meteria en cintura a todo aquel que me adversa con engaño y mentira a
+...
+
+                            </div>
+                        </div>
+                    </div>
+                    
+                   </div> 			<div style="text-align: right;"><a href="/tuvoto/participa.aspx">Ver más</a></div>
+			<asp:Label ID="lblt" runat="server" Text=""></asp:Label>
+		</div>
+	</div>
+<br /><div style="margin-bottom:5px;"><a href="http://www.ultimasnoticias.com.ve/TuVoto/lineatuvoto.aspx"><img width="300" height="178" border="0" alt="" src="/extras/images/LINEADETIEMPO.jpg" /></a></div>
+<br clear="all" /><div id="loultimo">
+	<div id="container-1">
+		<ul>
+			<li style="padding-top: 4px; height: 21px; font-size: 14px;"><span id="loultimo_lomas">
+				Lo más:</span></li>
+			<li><a href="#fragment-1"><span>Visto</span></a></li>
+			
+			<li><a href="#fragment-3"><span>Votado</span></a></li>
+			<li><a href="#fragment-2"><span>&nbsp;&nbsp;&nbsp;</span></a></li>
+		</ul>
+
+<script type="text/javascript">
+	function Redirect(url, path) {
+		var destino = url + '?path=' + path;
+		window.location = destino;
+	}
+</script>
+<div id="fragment-1">
+	<div class="content_ultimas">
+		
+<div class="content_ultimas">
+  <img border='0' src='/CMSPages/GetFile.aspx?GUID=64c6ad87-43ef-4bdd-986c-4fda4a7f9c8b&width=295' alt='VIDEO: A Chávez le tocaron cacerolas en los edificios de El Valle' title='VIDEO: A Chávez le tocaron cacerolas en los edificios de El Valle' />
+  <div id="loultimo_texto" style='font-size: 18px;' >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 26 - 07:22 p.m.</span>
+    <a href="/Noticias/TuVoto/NoticiasElectorales/VIDEO--A-Chavez-le-tocaron-cacerolas-en-los-edific.aspx">VIDEO: A Chávez le tocaron cacerolas en los edificios de El Valle</a>
+    <span style="font-size: 12px; font-weight:bold;">- 13365 vista(s)</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 27 - 05:48 a.m.</span>
+    <a href="/Noticias/TuVoto/Candidatos/Lo-que-no-vio-del-acto-de-Chavez-en-El-Valle.aspx">Lo que no vio del acto de Chávez en El Valle </a>
+    <span style="font-size: 12px; font-weight:bold;">- 10878 vista(s)</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 27 - 05:50 a.m.</span>
+    <a href="/Noticias/TuVoto/Candidatos/EN-FOTOS--Chavez-recorrio-El-Valle.aspx">EN FOTOS: Chávez recorrió El Valle </a>
+    <span style="font-size: 12px; font-weight:bold;">- 3860 vista(s)</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 26 - 06:44 p.m.</span>
+    <a href="/Noticias/TuVoto/Candidatos/Chavez--Ampliaremos-creditos-de-viviendas.aspx">Chávez: Ampliaremos créditos de viviendas</a>
+    <span style="font-size: 12px; font-weight:bold;">- 2579 vista(s)</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 27 - 05:49 a.m.</span>
+    <a href="/Noticias/TuVoto/Candidatos/EN-FOTOS--Capriles-Radonski-llano-a-dentro.aspx">EN FOTOS: Capriles Radonski llano a dentro </a>
+    <span style="font-size: 12px; font-weight:bold;">- 2427 vista(s)</span>
+  </div>
+</div>
+	</div>
+	<br clear="all" />
+	<div id="vermas">
+		
+		<input type="submit" name="plc$lt$zoneContent$pageplaceholder$pageplaceholder$lt$zoneContenedorDerecho$LoMas$btnMasLeidoVerTodas" value="VER TODAS" onclick="javascript:Redirect(&#39;/Todas-Lo-Mas/Lo-Mas-Leido.aspx&#39;, &#39;/Noticias/TuVoto/%&#39;); return false;" id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneContenedorDerecho_LoMas_btnMasLeidoVerTodas" class="loultimo_boton" />
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div id="fragment-3">
+	<div class="content_ultimas">
+		
+<div class="content_ultimas">
+  <img border='0' src='/CMSPages/GetFile.aspx?GUID=639a3e52-2873-4c55-ac6d-a7e15783fcd1&width=295' alt='Tarek William Saab se defiende y dice que sigue en el Psuv' title='Tarek William Saab se defiende y dice que sigue en el Psuv' />
+  <div id="loultimo_texto" style='font-size: 18px;' >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 18 - 10:06 a.m.</span>
+    <a href="/Noticias/TuVoto/NoticiasElectorales/Tarek-William-Saab-se-defiende-y-dice-que-sigue-en.aspx">Tarek William Saab se defiende y dice que sigue en el Psuv</a>
+    <span style="font-size: 12px; font-weight:bold;">- 4 votos</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 21 - 08:51 p.m.</span>
+    <a href="/Noticias/TuVoto/Candidatos/EN-VIDEO--Momentos-musico-bailables-de-Chavez-en-Z.aspx">EN VIDEO: Momentos músico-bailables de Chávez en Zulia</a>
+    <span style="font-size: 12px; font-weight:bold;">- 4 votos</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 26 - 07:22 p.m.</span>
+    <a href="/Noticias/TuVoto/NoticiasElectorales/VIDEO--A-Chavez-le-tocaron-cacerolas-en-los-edific.aspx">VIDEO: A Chávez le tocaron cacerolas en los edificios de El Valle</a>
+    <span style="font-size: 12px; font-weight:bold;">- 4 votos</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 18 - 12:10 p.m.</span>
+    <a href="/Noticias/TuVoto/NoticiasElectorales/Intencion-de-voto-de-Hugo-Chavez-bajo-5-puntos-en-.aspx">Intención de voto de Hugo Chávez bajó 5 puntos en julio, según Hinterlaces</a>
+    <span style="font-size: 12px; font-weight:bold;">- 3 votos</span>
+  </div>
+</div>
+<div class="content_ultimas">
+  
+  <div id="loultimo_texto"  >
+    <span id="loultimo_hora" style="font-size: 12px;">jul 17 - 03:11 p.m.</span>
+    <a href="/Noticias/TuVoto/Candidatos/Fotos--A-Chavez-o-a-Capriles-Radonski---A-quien-le.aspx">Fotos: A Chávez o a Capriles Radonski. ¿A quién le queda mejor el sombrero? </a>
+    <span style="font-size: 12px; font-weight:bold;">- 3 votos</span>
+  </div>
+</div>
+	</div>
+	<br clear="all" />
+	<div id="vermas">
+		
+		<input type="submit" name="plc$lt$zoneContent$pageplaceholder$pageplaceholder$lt$zoneContenedorDerecho$LoMas$btnMasVotadoVerTodas" value="VER TODAS" onclick="javascript:Redirect(&#39;/Todas-Lo-Mas/Lo-Mas-Votado.aspx&#39;, &#39;/Noticias/TuVoto/%&#39;); return false;" id="plc_lt_zoneContent_pageplaceholder_pageplaceholder_lt_zoneContenedorDerecho_LoMas_btnMasVotadoVerTodas" class="loultimo_boton" />
+	</div>
+</div>
+	</div>
+</div>
+<br clear="all" /><div style="background: url('/App_themes/UNoticias/piezas/pix_lomas.gif') repeat-x scroll 0 0 transparent;
+    height: 17px;
+    padding: 5px;
+    width: 300px;
+    color: #FFFFFF;
+    text-align: center; ">
+<p>UN Documentos</p>
+</div>
+<div class="PollControl"  style="color:#00568E;border-bottom-width: 0;text-decoration: none;">
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">jul 20 - 04:59 p.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/Documentos/Resultados-de-la-ultima-encuesta-de-Consultores-30.aspx">Resultados de la última encuesta de Consultores 30.11</a>
+    <span style="font-size: 12px; font-weight:bold;">- 1175 vistas</span>
+  </div>
+<br/>
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">feb 12 - 06:00 a.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/Documentos/-Como-se-vota-en-las-Primarias-en-tu-estado-.aspx">¿Cómo se vota en las Primarias en tu estado?</a>
+    <span style="font-size: 12px; font-weight:bold;">- 11917 vistas</span>
+  </div>
+<br/>
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">ene 13 - 06:14 p.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/Documentos/La-Constitucion-del-2013.aspx">La Constitución del 2013</a>
+    <span style="font-size: 12px; font-weight:bold;">- 237 vistas</span>
+  </div>
+<br/>
+
+<div style="color:#FFFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; align:right; text-align:right; text-decoration: none;">
+<a style="text-decoration: none; color:#000000;" href="http://www.ultimasnoticias.com.ve/tuvoto/documentos.aspx">
+Ver más UN Documentos
+</a>
+
+
+</div>
+</div>
+</br>
+
+<div style="background: url('/App_themes/UNoticias/piezas/pix_lomas.gif') repeat-x scroll 0 0 transparent;
+    height: 17px;
+    padding: 5px;
+    width: 300px;
+    color: #FFFFFF;
+    text-align: center; ">
+<p>UN Radio</p>
+</div>
+<div class="PollControl"  style="color:#00568E;border-bottom-width: 0;text-decoration: none;">
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">jul 25 - 02:36 p.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/UNRadio/Tu-voto-movil-en-Yaracuy.aspx">Tu voto móvil en Yaracuy </a>
+    <span style="font-size: 12px; font-weight:bold;">- 12 vistas</span>
+  </div>
+<br/>
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">jul 04 - 03:23 p.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/UNRadio/El-clima-electoral-en-el-estado-Bolivar.aspx">El clima electoral en el estado Bolívar </a>
+    <span style="font-size: 12px; font-weight:bold;">- 237 vistas</span>
+  </div>
+<br/>
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">jul 03 - 04:23 p.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/UNRadio/Tu-voto-movil-pulsa-la-opinion-en-Bolivar.aspx">Tu voto móvil pulsa la opinión en Bolívar </a>
+    <span style="font-size: 12px; font-weight:bold;">- 158 vistas</span>
+  </div>
+<br/>
+
+<div class="content_ultimas">
+      <span id="loultimo_hora" style="font-size: 12px;">jul 03 - 04:18 p.m.</span>
+    <a style="color: #333333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; text-decoration: none;" href="/Noticias/TuVoto/UNRadio/Tu-voto-movil-en-el-Oriente-del-pais.aspx">Tu voto móvil en el Oriente del país </a>
+    <span style="font-size: 12px; font-weight:bold;">- 133 vistas</span>
+  </div>
+<br/>
+
+<div style="color:#FFFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px; align:right; text-align:right; text-decoration: none;">
+<a style="text-decoration: none; color:#000000;" href="http://www.ultimasnoticias.com.ve/tuvoto/tuvotounradio.aspx">
+Ver más UN Radio
+</a>
+
+
+</div>
+</div>
+
+
+
+	<br clear="all" />
+</div>
+
+<!--fin contenido right-->
+<br clear="all" />
+<!--Fin Contenedor principal-->
+<!--FIN FLAT--><!-- * -->
+	<!--menu en iconos-->
+     <div  id="pie">
+ <div id="pie-iconos">
+
+  <ul class="estirar">
+   <li class="portada">
+    <a href="/Hoyenlahistoria.aspx" title="Hoy en la historia">Hoy en la historia</a>
+   </li>
+   <li class="ultimas-noticias">
+   	<a href="/Servicios/Portadas.aspx" title="Primera Página">Primera Página</a>
+   </li>
+   
+   <li class="videos">
+   		<a href="/servicios/descargas.aspx" title="Descargas">Descargas</a>
+    
+   </li>
+   <li class="fotos">
+    <a href="http://epaper.ultimasnoticias.com.ve/" title="Edición Impresa">Edición Impresa</a>
+   </li>
+   <li class="graficos">
+   	<a href="/Servicios/portal-movil.aspx" title="Portal Móvil">Portal Móvil</a>
+    	
+   </li>
+   <li class="blogs">
+    	<a href="/Servicios/un2d.aspx" title="UN2D">UN2D</a>
+
+   </li>
+   <li class="categorias">
+   	<a href="/Servicios/Kindle.aspx" title="Kindle">Kindle</a>
+    	<!--<a href="/Servicios/rss.aspx" title="Rss">Rss</a>-->
+   </li>
+   <li class="lugares">
+    	<a href="/Servicios/tablets.aspx" title="Tablets">Tablets</a>
+   </li>
+   <li class="personajes">
+	<a href="/OcioYEntretenimiento.aspx" title="Cartelera de Cine">Cine</a>
+	
+    
+   </li>
+   <li class="empresas">
+   		<a href="/Servicios/youtube.aspx" title="Youtube">Youtube</a>
+    	<!--<a href="/Servicios/twitter.aspx" title="Twitter">Twitter</a>-->
+   </li>
+   <li class="organismos">
+    	<a href="/Servicios/Clasificados.aspx" title="Clasificados">Clasificados</a>
+<!--<a href="/Servicios/Facebook.aspx" title="Facebook">Facebook</a>-->
+   </li>
+   <li class="archivo">
+    	<a href="/BuscadorUN.aspx" title="Buscador">Buscador</a> 
+   </li>
+<!--<li class="rss">
+   
+	
+   </li>
+<li class="otras">
+   
+	
+   </li>
+     -->
+  </ul>
+
+ </div>
+</div>
+<br clear="all" />
+	<!-- Aqui iba un br clear all -->
+	<!--menu-->
+<script>
+	function openRadioGlobalWindow() {
+		window.open("http://www.ultimasnoticias.com.ve/radioglobal/ultimasnoticiasradio.asp", "radioGlobalWindow", "toolbar =0,location=0,status=0,scrollbars=0,resizable=0,width=468,height=195");
+	}
+</script>
+<div id="menu">
+	<div id="cab-middle" class="estirar left">
+		<ul id="nav" class="nav estirar">
+			<li class="pri"><a href="/Actualidad.aspx" title="Actualidad">Actualidad</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="/Actualidad/Politica.aspx" title="Política">Política</a></li>
+							<li><a href="/Actualidad/Economia.aspx" title="Economía">Economía</a></li>
+							<li><a href="/Actualidad/Sucesos.aspx" title="Sucesos">Sucesos</a></li>
+							<li><a href="/Actualidad/Internacionales.aspx" title="Internacionales">Internacionales</a></li>
+							<li><a href="http://www.ultimasnoticias.com.ve/tuvoto/inicio.aspx" title="Tu Voto">Tu Voto</a></li> 
+							<!-- <li><a href="http://tuasamblea.ultimasnoticias.com.ve/" title="Tu Asamblea">Tu Asamblea</a></li> -->
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas Noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Actualidad/Politica/Chavez-partira-a-Brasilia-el-proximo-lunes-30-para.aspx">
+										Chávez partirá a Brasilia el próximo lunes 30 para cumbre Mercosur</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Actualidad/Politica/OEA-espera-que-Venezuela-no-se-retire-de-la-Cidh.aspx">
+										OEA espera que Venezuela no se retire de la Cidh</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Actualidad/Economia/3-mil-vehiculos-Chery-llegaron-a-Venezuela.aspx">
+										3 mil vehículos Chery llegaron a Venezuela</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Actualidad/Sucesos/Asesinan-a-dos-policias-en-Maracaibo.aspx">
+										Asesinan a dos policías en Maracaibo</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Actualidad/Economia/Banca-publica-otorgo-Bs--4-600-millones-para-credi.aspx">
+										Banca pública otorgó Bs. 4.600 millones para créditos en julio</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li><a href="/Ciudad.aspx" title="Ciudad">Ciudad</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="/Ciudad/Superbarrio.aspx" title="Superbarrio">Superbarrio</a></li>
+							<li><a href="/Ciudad/Servicios-publicos.aspx" title="Espacios y servicios públicos">
+								Espacios y servicios públicos</a></li>
+							<li><a href="/Ciudad/Educacion.aspx" title="Educación">Educación</a></li>
+							<li><a href="/Ciudad/Salud.aspx" title="Salud">Salud</a></li>
+							<li><a href="/Ciudad/Ambiente.aspx" title="Ambiente">Ambiente</a></li>
+                            <li><a href="/Ciudad/Parroquias.aspx" title="Parroquias">Parroquias</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas Noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Ciudad/Parroquias/Lluvias-restringen-paso-vehicular-en-via-El-Jarill.aspx">
+										Lluvias restringen paso vehicular en vía El Jarillo</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Ciudad/Ambiente/Sismo-en-Portuguesa-no-dejo-danos.aspx">
+										Sismo en Portuguesa no dejó daños </a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Ciudad/Parroquias/Museos-abriran-los-viernes-hasta-las-9-pm.aspx">
+										Museos abrirán los viernes hasta las 9 pm</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Ciudad/Parroquias/Tarima-atravesada-en-la-intercomunal-de-El-Valle-g.aspx">
+										Tarima atravesada en la intercomunal de El Valle genera cola</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Ciudad/Parroquias/Reportan-fallas-electricas-intermitentes-en-el-Met.aspx">
+										Reportan fallas eléctricas intermitentes en el Metro</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li><a href="http://tuvoz.ultimasnoticias.com.ve/" title="TuVoz" target="_blank">TuVoz</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/" target="_blank">Principal</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/tusnoticias.aspx" target="_blank">Tus noticias</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/Groups.aspx" target="_blank">La comunidad</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/Forums.aspx" target="_blank">Debates</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/Media.aspx" target="_blank">Multimedia</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/EchaTuCuento.aspx" target="_blank">Echa tu cuento</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/listablogs.aspx" target="_blank">Blogs</a></li>
+							<li><a href="http://tuvoz.ultimasnoticias.com.ve/Members.aspx" target="_blank">Miembros</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Tu VOZ</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/Se-nos-va-la-vieja.aspx" target="_blank">
+										Se nos va la vieja</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/El--yerbatero-y-la--Toma-de-la-Culebra-.aspx" target="_blank">
+										El  yerbatero y la “Toma de la Culebra”</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/Un-secreto-en-el-closet.aspx" target="_blank">
+										Un secreto en el closet</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/La-musica-y-los-carros.aspx" target="_blank">
+										La música y los carros</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/El--rap-del-emprendedor.aspx" target="_blank">
+										El  rap del emprendedor</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/Una-mama-de-armas-tomar.aspx" target="_blank">
+										 Una mamá de armas tomar</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="http://tuvoz.ultimasnoticias.com.ve/TusCuentos/La-brujeria-de-los-sapos-acabo-la-fiesta.aspx" target="_blank">
+										La brujería de los sapos acabó la fiesta</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li><a href="/Deportes.aspx" title="Deportes">Deportes</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="http:/Deportes/Beisbol.aspx" title="Beisbol">Beisbol</a></li>
+							<li><a href="/Deportes/Futbol.aspx" title="Fútbol">Fútbol</a></li>
+
+							<li><a href="/Deportes/Basquetbol.aspx" title="Baloncesto">Baloncesto</a></li>
+							<li><a href="/Deportes/Hipismo.aspx" title="Hipismo">Hipismo</a></li>
+							<li><a href="/Deportes/Otros-Deportes.aspx" title="Más deportes">Más deportes</a></li>
+							<li><a href="/olimpiadas.aspx" title="Olimpiadas">Olimpiadas</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Deportes/Otros-Deportes/INFOGRAFIA--Estos-son-los-venezolanos-clasificados.aspx">
+										INFOGRAFÍA: Éstos son los venezolanos clasificados a Londres 2012</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Deportes/Hipismo/El-Caminante-se-lesiono-y-no-va-a-la-Gala-Hipica.aspx">
+										El Caminante se lesionó y no va a la Gala Hípica</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Deportes/Otros-Deportes/Hamilton-el-mas-rapido-en-las-practicas-de-Hungria.aspx">
+										Hamilton el más rápido en las prácticas de Hungría</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Deportes/Beisbol/Armando-Galarraga-a-las-mayores.aspx">
+										Armando Galarraga a las mayores</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Deportes/Beisbol/Asdrubal-Cabrera-guio-tirunfo-de-los-Indios.aspx">
+										Asdrúbal Cabrera guió tirunfo de los Indios</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li><a href="/Chevere.aspx" title="Chévere">Chévere</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="/Chevere/Arte-y-Espectaculos.aspx" title="Arte y Espectáculos">Arte y Espectáculos</a></li>
+							<li><a href="/Chevere/Tendencias.aspx" title="Tendencias">Tendencias</a></li>
+							<li><a href="/OcioYEntretenimiento.aspx" title="Ocio y Entretenimiento">Ocio y Entretenimiento</a></li>
+							<li><a href="/Chevere/noticias-insolitas.aspx" title="Noticias Insólitas">Noticias Insólitas</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Chevere/Espectaculos/Dudamel-batira-record-historico-en-Maracay.aspx">
+										Dudamel batirá récord histórico en Maracay</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Chevere/Espectaculos/Breve-concierto-de-Madonna-es-abucheado-en-Paris.aspx">
+										Breve concierto de Madonna es abucheado en París </a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Chevere/Espectaculos/Exitos-de-Queen-tendran-su-version-sinfonica-criol.aspx">
+										Éxitos de Queen tendrán su versión sinfónica criolla</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Chevere/Tendencias/Horoscopo--viernes-27-de-julio-de-2012.aspx">
+										Horóscopo, viernes 27 de julio de 2012</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Chevere/Espectaculos/Adele-cantara-en-la-inauguracion-de-Londres-2012.aspx">
+										Adele cantará en la inauguración de Londres 2012</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li><a href="/Tecnologia.aspx" title="Tecnología">Tecnología</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="/Tecnologia.aspx">Todas las noticias</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas Noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Tecnologia/Google-permite-hacer-busquedas-de-forma-tactil-en-.aspx">
+										Google permite hacer búsquedas de forma táctil en móviles y tabletas</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Tecnologia/Arreaza--En-Cantv-manda-el-pueblo-organizado.aspx">
+										Arreaza: En Cantv manda el pueblo organizado</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Tecnologia/Twitter-se-disculpa-con-sus-usuarios.aspx">
+										Twitter se disculpa con sus usuarios</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Tecnologia/Restablecen-servicio-de-Google-Talk-para-algunos-u.aspx">
+										Restablecen servicio de Google Talk para algunos usuarios</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Tecnologia/Twitter-sufre-caida-masiva.aspx">
+										Twitter sufre caída masiva</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li><a href="/Opinion.aspx" title="Opinión">Opinión</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><a href="/Opinion.aspx">Todas las noticias</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas Noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Opinion/Quieto-en-Primera--El-legado-del-Paton.aspx">
+										Quieto en Primera: El legado del Patón</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Opinion/Ruta-Olimpica-Todos-como-en-casa-nadie-en-Londres.aspx">
+										Ruta Olímpica: Todos como en casa, nadie en Londres</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Opinion/Ruta-Olimpica--Poca-flema-y-mucha-rumba.aspx">
+										Ruta Olímpica: Poca flema y mucha rumba</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Opinion/Primera-fila--El-sorteo--Magliocco-y-el-sueno-olim.aspx">
+										Primera fila: El sorteo, Magliocco y el sueño olímpico</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Noticias/Opinion/Quieto-en-Primera--Miguel-Cabrera-va-rumbo-al-MVP.aspx">
+										Quieto en Primera: Miguel Cabrera va rumbo al MVP</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			
+			<li><a href="#" title="Multimedia">Multimedia</a>
+				<div class="subnav estirar">
+					<div class="izq">
+						<p class="cab">
+							En esta sección</p>
+						<ul>
+							<li><!--<a href="/ContenedorMultimedia.aspx" title="Videos">Videos</a>--><a href="/videos-lista.aspx" title="Videos">Videos</a></li>
+							<li><!--<a href="/AudioGalerias.aspx" title="Audiogalerías">Audiogalerías</a>--><a href="/AudioGalerias-lista.aspx" title="Audiogalerías">Audiogalerías</a></li>
+							<li><a href="/La-Propia-Foto.aspx" title="La Propia Foto">La Propia Foto</a></li>
+							<li><!--<a href="/Infografias.aspx" title="Infografías">Infografías</a>--><a href="/Infografias-lista.aspx" title="Infografías">Infografías</a></li>
+							<li><a href="/Reportajes-Multimedia.aspx" title="Reportajes Multimedia">Reportajes Multimedia</a></li>
+							<li><a href="javascript:openRadioGlobalWindow()" title="ÚNRadio">ÚNRadio</a></li>
+							<li><a href="/Videochat.aspx" title="Videochat">Videochat</a></li>
+						</ul>
+					</div>
+					
+							<div class="drcha">
+								<p class="cab">
+									Últimas Noticias</p>
+								<ul>
+						
+							<li class="estirar">
+								<p>
+									<a href="/ContenedorMultimedia/Morochito-Rodriguez.aspx">
+										Morochito Rodríguez ganó oro en México 1968</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/ContenedorMultimedia/Johana-Fuenmayor--1-.aspx">
+										Johanna Fuenmayor lista para competir</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/ContenedorMultimedia/Karlha-Magliocco-en-Londres-2012.aspx">
+										Magliocco a fajarse desde octavos de final</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/ContenedorMultimedia/Prueba-de-sonido.aspx">
+										Pruebas de sonido de Zapato 3</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/ContenedorMultimedia/Teloneros.aspx">
+										Teloneros de Zapato 3</a></p>
+							</li>
+						
+							<li class="estirar">
+								<p>
+									<a href="/Infografias/Caracas-celebra-su-445-aniversario.aspx">
+										</a></p>
+							</li>
+						
+							</ul> </div>
+						
+				</div>
+			</li>
+			<li style="background: none;"><a href='http://www.ultimasnoticias.com.ve/papayapedia/inicio.aspx'>Papayapedia</a><!--<a href="javascript:openRadioGlobalWindow()" title="ÚNRadio">
+				ÚNRadio</a>--></li>
+		</ul>
+	</div>
+	<a href="http://dominical.ultimasnoticias.com.ve/" target="_blank">
+		<img src="/App_Themes/UNoticias/piezas/logo_dom.png" width="73" height="22" style="margin-top: 2px;
+			margin-left: 4px; float: left;" alt="Logo Dominical" /></a>
+      <a target="_blank" href="http://www.tuzonaun.com">
+		<img height="20" src="/App_Themes/UNoticias/piezas/logo_caracas.png" style="margin-top:0px;
+			margin-left: 10px; float: left;" alt="Logo Dominical"></a>
+<!--	<div class="iconos_right right">
+		<a href="/Servicios/RSS.aspx">
+			<img src="/App_Themes/UNoticias/piezas/rss_26.png" width="22" class="right" alt="RSS Últimas Noticias" /></a>
+		<a href="http://www.facebook.com/UNoticias?ref=ts" target="_blank">
+			<img src="/App_Themes/UNoticias/piezas/facebook_26.png" width="22" class="right"
+				alt="Facebook Últimas Noticias" /></a> <a href="http://twitter.com/#!/unoticias"
+					target="_blank">
+					<img src="/App_Themes/UNoticias/piezas/twitter_26.png" width="22" class="right" alt="Twitter Últimas Noticias" /></a>
+	</div>
+-->
+</div>
+<!--fin menu-->
+	<!--footer-->
+	<div id="footer" style="width:989px;">
+
+		<br clear="all" />
+		<!--minicolumnas info-->
+		<div style="margin-left: 2px;" class="mincolumn left">
+			<p>
+				Qué es Últimas Noticias</p>
+			<ul>
+				<li><a href="/que-es-un.aspx">Nuestra Filosofía</a></li>
+				<li><a href="/por-que-somos-diferentes.aspx">Por qué somos diferentes</a></li>
+				<li><a href="/Registrate.aspx">Regístrate, personaliza contenidos y marca la pauta</a></li>
+				<li><a href="/SiNosPelamos.aspx">Si nos pelamos, repórtalo</a></li>
+			</ul>
+		</div>
+		<!--fin minicolumnas info-->
+		<!--minicolumnas info-->
+		<div class="mincolumn left">
+			<p>
+				Quiénes somos</p>
+			<ul>
+				<li><a href="/LaMarca.aspx">La marca Últimas Noticias</a></li>
+				<li><a href="/Grupoeditorial.aspx">Cadena Capriles</a></li>
+				<li><a href="/sitemap.aspx">Mapa del sitio</a></li>
+			</ul>
+		</div>
+		<!--fin minicolumnas info-->
+		<!--minicolumnas info-->
+		<div class="mincolumn left">
+			<p>
+				Nuestra fuerza</p>
+			<ul>
+				<li><a href="/Equipoderedaccion.aspx">Equipo de redacción</a></li>
+				<li><a href="/interaccionq.aspx">Interacción y participación</a></li>
+				<li><a href="/equipopublicidad.aspx">Equipo de publicidad y mercadeo</a></li>
+				<li><a href="/ubicanos.aspx">Ubícanos aquí</a></li>
+			</ul>
+		</div>
+		<!--fin minicolumnas info-->
+		<!--minicolumnas info-->
+		<div class="mincolumn left">
+			<p>
+				Aviso legal</p>
+			<ul>
+				<li><a href="/normas-de-participacion.aspx">Normas de participación para usuarios de ÚN</a></li>
+				<li><a href="/condiciones.aspx">Condiciones de uso</a></li>
+				<li><a href="/politicas-de-privacidad.aspx">Políticas de Privacidad</a></li>
+			</ul>
+		</div>
+		<!--fin minicolumnas info-->
+		<!--minicolumnas info-->
+       		 <div class="mincolumn left" style="margin-right:0px;">
+           		 <p>
+               		 Otros medios</p>
+			<ul>
+                		<li><a target="blank" href="http://www.elmundo.com.ve">El Mundo Economía y Negocio</a></li>
+                		<li><a target="blank" href="http://www.liderendeportes.com">Líder en Deportes</a></li>
+                		<li><a target="blank" href="http://dominical.ultimasnoticias.com.ve/">Revista Dominical</a></li>
+				<li><a target="blank" href="http://planetaurbe.tv/">Planeta Urbe</a></li>
+				<li><a target="blank" href="http://www.en123.com.ve/">EN123</a></li>
+            		</ul>
+	        </div>
+        	<!--fin minicolumnas info-->
+		<br clear="all" />
+
+		<!--busqueda-->
+		<!--    <div class="busqueda left">
+                <input  id="submit" type="submit" value="" class="button"   />
+                <input type="text" id="searchString">
+                    
+          	</div>    -->
+		<!--fin busqueda-->
+		<!--iconos varios-->
+
+		<!--
+
+		<div class="iconos_right right">
+			<a href="#">
+				<img src="/App_Themes/UNoticias/piezas/rss_26.png" width="22" class="right" /></a>
+			<a href="#">
+				<img src="/App_Themes/UNoticias/piezas/facebook_26.png" width="22" class="right" /></a>
+			<a href="#">
+				<img src="/App_Themes/UNoticias/piezas/twitter_26.png" width="22" class="right" /></a>
+		</div>
+
+		-->
+
+		<!--fin iconos varios-->
+		<br clear="all" />
+		<!--<center></center><br clear="all" />-->
+		<center><p style="color:#2774A6;"><a href="http://www.cadena-capriles.com/" target="_blank" ><img src="/App_Themes/UNoticias/piezas/logo_cadena.png" width="121" style="margin-right:6px; vertical-align:bottom;" /></a>Copyright | Últimas Noticias Todos Los Derechos Reservados | RIF: J-00037398-1</p></center>
+	</div>
+	<!--fin footer-->
+	<!--Fin Contenedor principal-->
+</div>
+<script type="text/javascript" src="/App_Themes/UNoticias/Js/comun2.js"></script>
+<script type="text/javascript">
+	var V = jQuery.noConflict();
+	var F = jQuery.noConflict();
+	//<![CDATA[
+	V('#nav > li, #nav-int > li, #migas .sec-int, #migas .sec-int .subnav .izq ul > li, #migas > li').desplegables();    //]]>
+	F("#pie-nav > .nav >  li, #pie-iconos > ul > li").desplegables(); 
+</script>
+<!--minicarrusel de noticias del rio-->
+<script src="/App_Themes/UNoticias/Js/carruselfoticos.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var T = jQuery.noConflict();
+
+	T(function () {
+		T('.carrusel3col').loopedSlider();
+	});
+</script>
+
+<!-- jCarousel library para chicas lider, descargables, infografias y audiogalerias-->
+<script type="text/javascript" src="/App_Themes/UNoticias/Js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+    
+	jQuery('#mycarousel5').jcarousel({
+        vertical: false,
+        scroll: 3
+    });
+});
+
+</script>              
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>
+
